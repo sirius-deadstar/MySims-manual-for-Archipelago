@@ -1,0 +1,2549 @@
+[
+  {
+	"name": "Found Happy Essence",
+	"region": "Town Level 0",
+	"category": ["Town Essences"],
+	"requires": []
+  },
+  {
+	"name": "Found Purple Crayon Essence",
+	"region": "Town Level 0",
+	"category": ["Town Essences"],
+	"requires": []
+  },
+  {
+	"name": "Found Yellow Blossom Essence",
+	"region": "Town Level 0",
+	"category": ["Town Essences"],
+	"requires": []
+  },
+  {
+	"name": "Found 8-Ball Essence",
+	"region": "Town Level 0",
+	"category": ["Town Essences"],
+	"requires": []
+  },
+  {
+	"name": "Found Angry Essence",
+	"region": "Town Level 0",
+	"category": ["Town Essences"],
+	"requires": []
+  },
+  {
+	"name": "Found Clown Fish Essence",
+	"region": "Town Level 0",
+	"category": ["Town Essences"],
+	"requires": []
+  },
+  {
+	"name": "Found Tire Essence",
+	"region": "Town Level 0",
+	"category": ["Town Essences"],
+	"requires": []
+  },
+  {
+	"name": "Found Dead Wood Essence",
+	"region": "Town Level 0",
+	"category": ["Town Essences"],
+	"requires": []
+  },
+  {
+	"name": "Found Sad Essence",
+	"region": "Town Level 0",
+	"category": ["Town Essences"],
+	"requires": []
+  },
+  {
+	"name": "Found Scary Essence",
+	"region": "Town Level 0",
+	"category": ["Town Essences"],
+	"requires": []
+  },
+  {
+	"name": "Found Thorn Essence",
+	"region": "Town Level 0",
+	"category": ["Town Essences"],
+	"requires": []
+  },
+  {
+	"name": "Found Dark Wood Essence",
+	"region": "Town Level 0",
+	"category": ["Town Essences"],
+	"requires": []
+  },
+  {
+	"name": "Found Light Wood Essence",
+	"region": "Town Level 0",
+	"category": ["Town Essences"],
+	"requires": []
+  },
+  {
+	"name": "Found Stone Essence",
+	"region": "Town Level 0",
+	"category": ["Town Essences"],
+	"requires": []
+  },
+  {
+	"name": "Found Green Apple Essence",
+	"region": "Town Level 0",
+	"category": ["Town Essences"],
+	"requires": []
+  },
+  {
+	"name": "Found Rainbow Trout Essence",
+	"region": "Town Level 0",
+	"category": ["Town Essences"],
+	"requires": []
+  },
+  {
+	"name": "Found Red Apple Essence",
+	"region": "Town Level 0",
+	"category": ["Town Essences"],
+	"requires": []
+  },
+  {
+	"name": "Found Action Figure Essence",
+	"region": "Town Level 1",
+	"category": ["Town Essences"],
+	"requires": "|Crowbar|"
+  },
+  {
+	"name": "Found Video Game Essence",
+	"region": "Town Level 1",
+	"category": ["Town Essences"],
+	"requires": "|Crowbar|"
+  },
+  {
+	"name": "Found Plum Blossom Essence",
+	"region": "Town Level 2",
+	"category": ["Forest Essences"],
+	"requires": "|Saw|"
+  },
+  {
+	"name": "Found Rose Essence",
+	"region": "Town Level 2",
+	"category": ["Forest Essences"],
+	"requires": "|Saw|"
+  },
+  {
+	"name": "Found Snake Essence",
+	"region": "Town Level 2",
+	"category": ["Forest Essences"],
+	"requires": "|Saw|"
+  },
+  {
+	"name": "Found Organic Essence",
+	"region": "Town Level 2",
+	"category": ["Forest Essences"],
+	"requires": "|Saw|"
+  },
+  {
+	"name": "Found Terra Cotta Essence",
+	"region": "Town Level 2",
+	"category": ["Forest Essences"],
+	"requires": "|Saw|"
+  },
+  {
+	"name": "Found Bacon Essence",
+	"region": "Town Level 2",
+	"category": ["Forest Essences"],
+	"requires": "|Saw|"
+  },
+  {
+	"name": "Found Cake Essence",
+	"region": "Town Level 2",
+	"category": ["Forest Essences"],
+	"requires": "|Saw|"
+  },
+  {
+	"name": "Found Cherry Blossom Essence",
+	"region": "Town Level 2",
+	"category": ["Forest Essences"],
+	"requires": "|Saw|"
+  },
+  {
+	"name": "Found Chocolate Cake Essence",
+	"region": "Town Level 2",
+	"category": ["Forest Essences"],
+	"requires": "|Saw|"
+  },
+  {
+	"name": "Found Crab Essence",
+	"region": "Town Level 2",
+	"category": ["Forest Essences"],
+	"requires": "|Saw|"
+  },
+  {
+	"name": "Found Gingerbread Man Essence",
+	"region": "Town Level 2",
+	"category": ["Forest Essences"],
+	"requires": "|Saw|"
+  },
+  {
+	"name": "Found Octopus Essence",
+	"region": "Town Level 2",
+	"category": ["Forest Essences"],
+	"requires": "|Saw|"
+  },
+  {
+	"name": "Found Freezer Bunny Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Kitten Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Penguin Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Puppet Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Beta Fish Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Goby Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Pinwheel Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Rubber Ducky Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Cube Puzzle Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Electric Eel Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Robofish Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Uber Shiny Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found UFO Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Bat Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Bat Fish Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Dragon Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Raven Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Compass Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Microscope Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Telescope Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Textbook Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Banana Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Fruit Pie Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Salmon Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Tuna Essence",
+	"region": "Town Level 2",
+	"category": ["Gardens Essences"],
+	"gardens_essence": ["Yes"],
+	"requires": []
+  },
+  {
+	"name": "Found Garnet Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Puppy Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Red Crayon Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Crowbar| AND |Pickaxe|"
+  },
+  {
+	"name": "Found Sunflower Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Tim Doll Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Crowbar| AND |Pickaxe|"
+  },
+  {
+	"name": "Found Tina Doll Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Crowbar| AND |Pickaxe|"
+  },
+  {
+	"name": "Found Yellow Crayon Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Crowbar| AND |Pickaxe|"
+  },
+  {
+	"name": "Found Club Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Diamond Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Heart Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Hopi Doll Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Magic Carpet Essence",
+	"region": "Town Level 3",
+	"category": ["Forest Essences"],
+	"requires": "|Saw| AND |Pickaxe|"
+  },
+  {
+	"name": "Found Musical Note Essence",
+	"region": "Town Level 3",
+	"category": ["Forest Essences"],
+	"requires": "|Saw| AND |Pickaxe|"
+  },
+  {
+	"name": "Found Soccer Ball Essence",
+	"region": "Town Level 3",
+	"category": ["Forest Essences"],
+	"requires": "|Saw| AND |Pickaxe|"
+  },
+  {
+	"name": "Found Spade Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Tiger Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Topaz Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Mega Lizard Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Sapphire Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Amethyst Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Black Apple Essence",
+	"region": "Town Level 3",
+	"category": ["Forest Essences"],
+	"requires": "|Crowbar| AND |Saw| AND |Pickaxe|"
+  },
+  {
+	"name": "Found Black Rose Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Eyeball Essence",
+	"region": "Town Level 3",
+	"category": ["Forest Essences"],
+	"requires": "|Crowbar| AND |Saw| AND |Pickaxe|"
+  },
+  {
+	"name": "Found Ghost Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Crowbar| AND |Saw| AND |Pickaxe|"
+  },
+  {
+	"name": "Found Jack-o'-lantern Essence",
+	"region": "Town Level 3",
+	"category": ["Forest Essences"],
+	"requires": "|Crowbar| AND |Saw| AND |Pickaxe|"
+  },
+  {
+	"name": "Found Skeleton Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Spider Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Saw| AND |Pickaxe|"
+  },
+  {
+	"name": "Found Voodoo Doll Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Saw| AND |Pickaxe|"
+  },
+  {
+	"name": "Found Dinosaur Fossil Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Elephant Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Jade Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Moai Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Amber Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Lemon Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Lime Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Orange Essence",
+	"region": "Town Level 3",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe|"
+  },
+  {
+	"name": "Found Gold Essence",
+	"region": "Town Level 4",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe| AND |Blowtorch|"
+  },
+  {
+	"name": "Found Kissing Fish Essence",
+	"region": "Town Level 4",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe| AND |Blowtorch|"
+  },
+  {
+	"name": "Found Beach Ball Essence",
+	"region": "Town Level 4",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe| AND |Blowtorch|"
+  },
+  {
+	"name": "Found Alien Essence",
+	"region": "Town Level 4",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe| AND |Blowtorch|"
+  },
+  {
+	"name": "Found Gears Essence",
+	"region": "Town Level 4",
+	"category": ["Desert Essences"],
+	"requires": "|Crowbar| AND |Pickaxe| AND |Blowtorch|"
+  },
+  {
+	"name": "Found Metal Essence",
+	"region": "Town Level 4",
+	"category": ["Desert Essences"],
+	"requires": "|Crowbar| AND |Pickaxe| AND |Blowtorch|"
+  },
+  {
+	"name": "Found Robot Essence",
+	"region": "Town Level 4",
+	"category": ["Desert Essences"],
+	"requires": "|Crowbar| AND |Pickaxe| AND |Blowtorch|"
+  },
+  {
+	"name": "Found Rocket Essence",
+	"region": "Town Level 4",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe| AND |Blowtorch|"
+  },
+  {
+	"name": "Found Spring Essence",
+	"region": "Town Level 4",
+	"category": ["Desert Essences"],
+	"requires": "|Crowbar| AND |Pickaxe| AND |Blowtorch|"
+  },
+  {
+	"name": "Found Star Essence",
+	"region": "Town Level 4",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe| AND |Blowtorch|"
+  },
+  {
+	"name": "Found Tiny Shark Essence",
+	"region": "Town Level 4",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe| AND |Blowtorch|"
+  },
+  {
+	"name": "Found Fish Bones Essence",
+	"region": "Town Level 4",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe| AND |Blowtorch|"
+  },
+  {
+	"name": "Found Globe Essence",
+	"region": "Town Level 4",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe| AND |Blowtorch|"
+  },
+  {
+	"name": "Found Knight Essence",
+	"region": "Town Level 4",
+	"category": ["Forest Essences"],
+	"requires": "|Saw| AND |Blowtorch|"
+  },
+  {
+	"name": "Found Pawn Essence",
+	"region": "Town Level 4",
+	"category": ["Forest Essences"],
+	"requires": "|Saw| AND |Blowtorch|"
+  },
+  {
+	"name": "Found Pencil Essence",
+	"region": "Town Level 4",
+	"category": ["Desert Essences"],
+	"requires": "|Pickaxe| AND |Blowtorch|"
+  },
+  {
+	"name": "Found Rook Essence",
+	"region": "Town Level 4",
+	"category": ["Forest Essences"],
+	"requires": "|Saw| AND |Blowtorch|"
+  },
+  {
+	"name": "Mayor Rosalyn Task 1",
+	"region": "Town Level 0",
+	"category": ["Mayor Rosalyn"],
+	"requires": "|Rosalyn P. Marshall| AND |Podium| AND |Red Apple Essence|"
+  },
+  {
+	"name": "Mayor Rosalyn Task 1 Complete",
+	"region": "Town Level 0",
+	"category": ["Mayor Rosalyn"],
+	"requires": "|Rosalyn P. Marshall| AND |Podium| AND |Red Apple Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Poppy Task 1",
+	"region": "Town Level 0",
+	"category": ["Poppy"],
+	"requires": "|Rosalyn P. Marshall| AND |Podium| AND |Red Apple Essence| AND |Poppy| AND |Flower Stand| AND |Happy Essence|"
+  },
+  {
+	"name": "Poppy Task 1 Complete",
+	"region": "Town Level 0",
+	"category": ["Poppy"],
+	"requires": "|Rosalyn P. Marshall| AND |Podium| AND |Red Apple Essence| AND |Poppy| AND |Flower Stand| AND |Happy Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Poppy Task 2",
+	"region": "Town Level 0",
+	"category": ["Poppy"],
+	"requires": "|Rosalyn P. Marshall| AND |Podium| AND |Red Apple Essence| AND |Poppy| AND |Flower Stand| AND |Happy Essence| AND |Bed| AND |Yellow Blossom Essence|"
+  },
+  {
+	"name": "Poppy Task 2 Complete",
+	"region": "Town Level 0",
+	"category": ["Poppy"],
+	"requires": "|Rosalyn P. Marshall| AND |Podium| AND |Red Apple Essence| AND |Poppy| AND |Flower Stand| AND |Happy Essence| AND |Bed| AND |Yellow Blossom Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Poppy Task 3",
+	"region": "Town Level 1",
+	"category": ["Poppy"],
+	"requires": "|Chef Gino Delicioso|"
+  },
+  {
+	"name": "Poppy Task 3 Complete",
+	"region": "Town Level 1",
+	"category": ["Poppy"],
+	"requires": "|Chef Gino Delicioso|",
+	"place_item": ["200 Points"]
+  },
+  {
+	"name": "Chef Gino Task 1",
+	"region": "Town Level 1",
+	"category": ["Chef Gino"],
+	"requires": "|Chef Gino Delicioso| AND |Pizza Oven| AND |Stone Essence|"
+  },
+  {
+	"name": "Chef Gino Task 1 Complete",
+	"region": "Town Level 1",
+	"category": ["Chef Gino"],
+	"requires": "|Chef Gino Delicioso| AND |Pizza Oven| AND |Stone Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Chef Gino Task 2",
+	"region": "Town Level 1",
+	"category": ["Chef Gino"],
+	"requires": "|Chef Gino Delicioso| AND |Pizza Oven| AND |Stone Essence| AND |Table| AND |Green Apple Essence| AND |Chair|"
+  },
+  {
+	"name": "Chef Gino Task 2 Complete",
+	"region": "Town Level 1",
+	"category": ["Chef Gino"],
+	"requires": "|Chef Gino Delicioso| AND |Pizza Oven| AND |Stone Essence| AND |Table| AND |Green Apple Essence| AND |Chair|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Chef Gino Task 3",
+	"region": "Town Level 1",
+	"category": ["Chef Gino"],
+	"requires": "|Chef Gino Delicioso| AND |Pizza Oven| AND |Stone Essence| AND |Table| AND |Green Apple Essence| AND |Chair| AND |Sink| AND |Refrigerator| AND |Stove|"
+  },
+  {
+	"name": "Chef Gino Task 3 Complete",
+	"region": "Town Level 1",
+	"category": ["Chef Gino"],
+	"requires": "|Chef Gino Delicioso| AND |Pizza Oven| AND |Stone Essence| AND |Table| AND |Green Apple Essence| AND |Chair| AND |Sink| AND |Refrigerator| AND |Stove|",
+	"place_item": ["200 Points"]
+  },
+  {
+	"name": "DJ Candy Task 1",
+	"region": "Town Level 1",
+	"category": ["DJ Candy"],
+	"requires": "|Chef Gino Delicioso| AND |DJ Candy Supergroove| AND |Stereo|"
+  },
+  {
+	"name": "DJ Candy Task 1 Complete",
+	"region": "Town Level 1",
+	"category": ["DJ Candy"],
+	"requires": "|Chef Gino Delicioso| AND |DJ Candy Supergroove| AND |Stereo|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "DJ Candy Task 2",
+	"region": "Town Level 1",
+	"category": ["DJ Candy"],
+	"requires": "|Chef Gino Delicioso| AND |DJ Candy Supergroove| AND |Stereo| AND |Couch| AND |8-Ball Essence| AND |Clown Fish Essence| AND |Coffee Table|"
+  },
+  {
+	"name": "DJ Candy Task 2 Complete",
+	"region": "Town Level 1",
+	"category": ["DJ Candy"],
+	"requires": "|Chef Gino Delicioso| AND |DJ Candy Supergroove| AND |Stereo| AND |Couch| AND |8-Ball Essence| AND |Clown Fish Essence| AND |Coffee Table|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "DJ Candy Task 3",
+	"region": "Town Level 1",
+	"category": ["DJ Candy"],
+	"requires": "|Chef Gino Delicioso| AND |DJ Candy Supergroove| AND |Stereo| AND |Couch| AND |8-Ball Essence| AND |Clown Fish Essence| AND |Coffee Table| AND |Turntable|"
+  },
+  {
+	"name": "DJ Candy Task 3 Complete",
+	"region": "Town Level 1",
+	"category": ["DJ Candy"],
+	"requires": "|Chef Gino Delicioso| AND |DJ Candy Supergroove| AND |Stereo| AND |Couch| AND |8-Ball Essence| AND |Clown Fish Essence| AND |Coffee Table| AND |Turntable|",
+	"place_item": ["200 Points"]
+  },
+  {
+	"name": "Sir Vincent Task 1",
+	"region": "Town Level 1",
+	"category": ["Sir Vincent"],
+	"requires": "|Chef Gino Delicioso| AND |Sir Vincent Skullfinder| AND |Sculpture| AND |Dead Wood Essence| AND |Stone Essence|"
+  },
+  {
+	"name": "Sir Vincent Task 1 Complete",
+	"region": "Town Level 1",
+	"category": ["Sir Vincent"],
+	"requires": "|Chef Gino Delicioso| AND |Sir Vincent Skullfinder| AND |Sculpture| AND |Dead Wood Essence| AND |Stone Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Sir Vincent Task 2",
+	"region": "Town Level 1",
+	"category": ["Sir Vincent"],
+	"requires": "|Chef Gino Delicioso| AND |Sir Vincent Skullfinder| AND |Sculpture| AND |Dead Wood Essence| AND |Stone Essence| AND |Desk| AND |Chair|"
+  },
+  {
+	"name": "Sir Vincent Task 2 Complete",
+	"region": "Town Level 1",
+	"category": ["Sir Vincent"],
+	"requires": "|Chef Gino Delicioso| AND |Sir Vincent Skullfinder| AND |Sculpture| AND |Dead Wood Essence| AND |Stone Essence| AND |Desk| AND |Chair|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Sir Vincent Task 3",
+	"region": "Town Level 1",
+	"category": ["Sir Vincent"],
+	"requires": "|Chef Gino Delicioso| AND |Sir Vincent Skullfinder| AND |Sculpture| AND |Dead Wood Essence| AND |Stone Essence| AND |Desk| AND |Chair| AND |Sarcophagus| AND |Scary Essence|"
+  },
+  {
+	"name": "Sir Vincent Task 3 Complete",
+	"region": "Town Level 1",
+	"category": ["Sir Vincent"],
+	"requires": "|Chef Gino Delicioso| AND |Sir Vincent Skullfinder| AND |Sculpture| AND |Dead Wood Essence| AND |Stone Essence| AND |Desk| AND |Chair| AND |Sarcophagus| AND |Scary Essence|",
+	"place_item": ["200 Points"]
+  },
+  {
+	"name": "Elmira Task 1",
+	"region": "Town Level 2",
+	"category": ["Elmira Clamp"],
+	"requires": "|Elmira Clamp| AND |Bookshelf| AND |Dark Wood Essence|"
+  },
+  {
+	"name": "Elmira Task 1 Complete",
+	"region": "Town Level 2",
+	"category": ["Elmira Clamp"],
+	"requires": "|Elmira Clamp| AND |Bookshelf| AND |Dark Wood Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Elmira Task 2",
+	"region": "Town Level 2",
+	"category": ["Elmira Clamp"],
+	"requires": "|Elmira Clamp| AND |Saw| AND |Bookshelf| AND |Dark Wood Essence| AND |Desk| AND |Terra Cotta Essence| AND |Chair|"
+  },
+  {
+	"name": "Elmira Task 2 Complete",
+	"region": "Town Level 2",
+	"category": ["Elmira Clamp"],
+	"requires": "|Elmira Clamp| AND |Saw| AND |Bookshelf| AND |Dark Wood Essence| AND |Desk| AND |Terra Cotta Essence| AND |Chair|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Elmira Task 3",
+	"region": "Town Level 2",
+	"category": ["Elmira Clamp"],
+	"requires": "|Elmira Clamp| AND |Saw| AND |Bookshelf| AND |Dark Wood Essence| AND |Desk| AND |Terra Cotta Essence| AND |Chair| AND |Small Television| AND |Couch|"
+  },
+  {
+	"name": "Elmira Task 3 Complete",
+	"region": "Town Level 2",
+	"category": ["Elmira Clamp"],
+	"requires": "|Elmira Clamp| AND |Saw| AND |Bookshelf| AND |Dark Wood Essence| AND |Desk| AND |Terra Cotta Essence| AND |Chair| AND |Small Television| AND |Couch|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Elmira Task 4",
+	"region": "Town Level 2",
+	"category": ["Elmira Clamp"],
+	"requires": "|Elmira Clamp| AND |Saw| AND |Bookshelf| AND |Dark Wood Essence| AND |Desk| AND |Terra Cotta Essence| AND |Chair| AND |Small Television| AND |Couch| AND |Scary Essence| AND |Rose Essence|"
+  },
+  {
+	"name": "Elmira Task 4 Complete",
+	"region": "Town Level 2",
+	"category": ["Elmira Clamp"],
+	"requires": "|Elmira Clamp| AND |Saw| AND |Bookshelf| AND |Dark Wood Essence| AND |Desk| AND |Terra Cotta Essence| AND |Chair| AND |Small Television| AND |Couch| AND |Scary Essence| AND |Rose Essence|",
+	"place_item": ["200 Points"]
+  },
+  {
+	"name": "Ms. Nicole Task 1",
+	"region": "Town Level 2",
+	"category": ["Ms. Nicole"],
+	"requires": "|Ms. Nicole Vogue| AND |Saw| AND |Rose Essence| AND |Purple Crayon Essence|"
+  },
+  {
+	"name": "Ms. Nicole Task 1 Complete",
+	"region": "Town Level 2",
+	"category": ["Ms. Nicole"],
+	"requires": "|Ms. Nicole Vogue| AND |Saw| AND |Rose Essence| AND |Purple Crayon Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Ms. Nicole Task 2",
+	"region": "Town Level 2",
+	"category": ["Ms. Nicole"],
+	"requires": "|Ms. Nicole Vogue| AND |Saw| AND |Rose Essence| AND |Purple Crayon Essence| AND |Mirror| AND |Plum Blossom Essence|"
+  },
+  {
+	"name": "Ms. Nicole Task 2 Complete",
+	"region": "Town Level 2",
+	"category": ["Ms. Nicole"],
+	"requires": "|Ms. Nicole Vogue| AND |Saw| AND |Rose Essence| AND |Purple Crayon Essence| AND |Mirror| AND |Plum Blossom Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Ms. Nicole Task 3",
+	"region": "Town Level 2",
+	"category": ["Ms. Nicole"],
+	"requires": "|Ms. Nicole Vogue| AND |Saw| AND |Rose Essence| AND |Purple Crayon Essence| AND |Mirror| AND |Plum Blossom Essence| AND |Dresser| AND |Dark Wood Essence| AND |Light Wood Essence|"
+  },
+  {
+	"name": "Ms. Nicole Task 3 Complete",
+	"region": "Town Level 2",
+	"category": ["Ms. Nicole"],
+	"requires": "|Ms. Nicole Vogue| AND |Saw| AND |Rose Essence| AND |Purple Crayon Essence| AND |Mirror| AND |Plum Blossom Essence| AND |Dresser| AND |Dark Wood Essence| AND |Light Wood Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Ms. Nicole Task 4",
+	"region": "Town Level 2",
+	"category": ["Ms. Nicole"],
+	"requires": "|Ms. Nicole Vogue| AND |Saw| AND |Rose Essence| AND |Purple Crayon Essence| AND |Mirror| AND |Plum Blossom Essence| AND |Dresser| AND |Dark Wood Essence| AND |Light Wood Essence| AND |Changing Booth|"
+  },
+  {
+	"name": "Ms. Nicole Task 4 Complete",
+	"region": "Town Level 2",
+	"category": ["Ms. Nicole"],
+	"requires": "|Ms. Nicole Vogue| AND |Saw| AND |Rose Essence| AND |Purple Crayon Essence| AND |Mirror| AND |Plum Blossom Essence| AND |Dresser| AND |Dark Wood Essence| AND |Light Wood Essence| AND |Changing Booth|",
+	"place_item": ["200 Points"]
+  },
+  {
+	"name": "Roxie Road Task 1",
+	"region": "Town Level 2",
+	"category": ["Roxie Road"],
+	"requires": "|Roxie Road| AND |Saw| AND |Ice Cream Freezer| AND |Gingerbread Man Essence|"
+  },
+  {
+	"name": "Roxie Road Task 1 Complete",
+	"region": "Town Level 2",
+	"category": ["Roxie Road"],
+	"requires": "|Roxie Road| AND |Saw| AND |Ice Cream Freezer| AND |Gingerbread Man Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Roxie Road Task 2",
+	"region": "Town Level 2",
+	"category": ["Roxie Road"],
+	"requires": "|Roxie Road| AND |Saw| AND |Ice Cream Freezer| AND |Gingerbread Man Essence| AND |Refrigerator| AND |Sink| AND |Chocolate Cake Essence|"
+  },
+  {
+	"name": "Roxie Road Task 2 Complete",
+	"region": "Town Level 2",
+	"category": ["Roxie Road"],
+	"requires": "|Roxie Road| AND |Saw| AND |Ice Cream Freezer| AND |Gingerbread Man Essence| AND |Refrigerator| AND |Sink| AND |Chocolate Cake Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Roxie Road Task 3",
+	"region": "Town Level 2",
+	"category": ["Roxie Road"],
+	"requires": "|Roxie Road| AND |Saw| AND |Ice Cream Freezer| AND |Gingerbread Man Essence| AND |Refrigerator| AND |Sink| AND |Chocolate Cake Essence| AND |Table| AND |Cherry Blossom Essence| AND |Cake Essence| AND |Chair|"
+  },
+  {
+	"name": "Roxie Road Task 3 Complete",
+	"region": "Town Level 2",
+	"category": ["Roxie Road"],
+	"requires": "|Roxie Road| AND |Saw| AND |Ice Cream Freezer| AND |Gingerbread Man Essence| AND |Refrigerator| AND |Sink| AND |Chocolate Cake Essence| AND |Table| AND |Cherry Blossom Essence| AND |Cake Essence| AND |Chair|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Roxie Road Task 4",
+	"region": "Town Level 2",
+	"category": ["Roxie Road"],
+	"requires": "|Roxie Road| AND |Saw| AND |Ice Cream Freezer| AND |Gingerbread Man Essence| AND |Refrigerator| AND |Sink| AND |Chocolate Cake Essence| AND |Table| AND |Cherry Blossom Essence| AND |Cake Essence| AND |Chair| AND |Bathtub|"
+  },
+  {
+	"name": "Roxie Road Task 4 Complete",
+	"region": "Town Level 2",
+	"category": ["Roxie Road"],
+	"requires": "|Roxie Road| AND |Saw| AND |Ice Cream Freezer| AND |Gingerbread Man Essence| AND |Refrigerator| AND |Sink| AND |Chocolate Cake Essence| AND |Table| AND |Cherry Blossom Essence| AND |Cake Essence| AND |Chair| AND |Bathtub|",
+	"place_item": ["200 Points"]
+  },
+  {
+	"name": "Vic Vector Task 1",
+	"region": "Town Level 2",
+	"category": ["Vic Vector"],
+	"requires": "|Vic Vector| AND |Crowbar| AND |Arcade Game| AND |Video Game Essence|"
+  },
+  {
+	"name": "Vic Vector Task 1 Complete",
+	"region": "Town Level 2",
+	"category": ["Vic Vector"],
+	"requires": "|Vic Vector| AND |Crowbar| AND |Arcade Game| AND |Video Game Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Vic Vector Task 2",
+	"region": "Town Level 2",
+	"category": ["Vic Vector"],
+	"requires": "|Vic Vector| AND |Crowbar| AND |Arcade Game| AND |Video Game Essence| AND |Couch| AND |Action Figure Essence| AND |Television|"
+  },
+  {
+	"name": "Vic Vector Task 2 Complete",
+	"region": "Town Level 2",
+	"category": ["Vic Vector"],
+	"requires": "|Vic Vector| AND |Crowbar| AND |Arcade Game| AND |Video Game Essence| AND |Couch| AND |Action Figure Essence| AND |Television|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Vic Vector Task 3",
+	"region": "Town Level 2",
+	"category": ["Vic Vector"],
+	"requires": "|Vic Vector| AND |Crowbar| AND |Saw| AND |Arcade Game| AND |Video Game Essence| AND |Couch| AND |Action Figure Essence| AND |Television| AND |Refrigerator| AND |Bacon Essence|"
+  },
+  {
+	"name": "Vic Vector Task 3 Complete",
+	"region": "Town Level 2",
+	"category": ["Vic Vector"],
+	"requires": "|Vic Vector| AND |Crowbar| AND |Saw| AND |Arcade Game| AND |Video Game Essence| AND |Couch| AND |Action Figure Essence| AND |Television| AND |Refrigerator| AND |Bacon Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Vic Vector Task 4",
+	"region": "Town Level 2",
+	"category": ["Vic Vector"],
+	"requires": "|Vic Vector| AND |Crowbar| AND |Saw| AND |Arcade Game| AND |Video Game Essence| AND |Couch| AND |Action Figure Essence| AND |Television| AND |Refrigerator| AND |Bacon Essence| AND |Tire Essence| AND |Octopus Essence| AND |Crab Essence| AND |Snake Essence|"
+  },
+  {
+	"name": "Vic Vector Task 4 Complete",
+	"region": "Town Level 2",
+	"category": ["Vic Vector"],
+	"requires": "|Vic Vector| AND |Crowbar| AND |Saw| AND |Arcade Game| AND |Video Game Essence| AND |Couch| AND |Action Figure Essence| AND |Television| AND |Refrigerator| AND |Bacon Essence| AND |Tire Essence| AND |Octopus Essence| AND |Crab Essence| AND |Snake Essence|",
+	"place_item": ["200 Points"]
+  },
+  {
+	"name": "Chef Watanabe Task 1",
+	"region": "Town Level 3",
+	"category": ["Chef Watanabe"],
+	"requires": "|Chef Hisao Watanabe| AND |Sink| AND |Rainbow Trout Essence|"
+  },
+  {
+	"name": "Chef Watanabe Task 1 Complete",
+	"region": "Town Level 3",
+	"category": ["Chef Watanabe"],
+	"requires": "|Chef Hisao Watanabe| AND |Sink| AND |Rainbow Trout Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Chef Watanabe Task 2",
+	"region": "Town Level 3",
+	"category": ["Chef Watanabe"],
+	"requires": "|Chef Hisao Watanabe| AND |Saw| AND |Sink| AND |Rainbow Trout Essence| AND |Bathtub| AND |Crab Essence|"
+  },
+  {
+	"name": "Chef Watanabe Task 2 Complete",
+	"region": "Town Level 3",
+	"category": ["Chef Watanabe"],
+	"requires": "|Chef Hisao Watanabe| AND |Saw| AND |Sink| AND |Rainbow Trout Essence| AND |Bathtub| AND |Crab Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Chef Watanabe Task 3",
+	"region": "Town Level 3",
+	"category": ["Chef Watanabe"],
+	"requires": "|Chef Hisao Watanabe| AND |Saw| AND |Sink| AND |Rainbow Trout Essence| AND |Bathtub| AND |Crab Essence| AND |Hot Tub| AND |Octopus Essence|"
+  },
+  {
+	"name": "Chef Watanabe Task 3 Complete",
+	"region": "Town Level 3",
+	"category": ["Chef Watanabe"],
+	"requires": "|Chef Hisao Watanabe| AND |Saw| AND |Sink| AND |Rainbow Trout Essence| AND |Bathtub| AND |Crab Essence| AND |Hot Tub| AND |Octopus Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Chef Watanabe Task 4",
+	"region": "Town Level 3",
+	"category": ["Chef Watanabe"],
+	"requires": "|Chef Hisao Watanabe| AND |Saw| AND |Sink| AND |Rainbow Trout Essence| AND |Bathtub| AND |Crab Essence| AND |Hot Tub| AND |Octopus Essence| AND |Karaoke Machine| AND |Stone Essence| AND |Organic Essence|"
+  },
+  {
+	"name": "Chef Watanabe Task 4 Complete",
+	"region": "Town Level 3",
+	"category": ["Chef Watanabe"],
+	"requires": "|Chef Hisao Watanabe| AND |Saw| AND |Sink| AND |Rainbow Trout Essence| AND |Bathtub| AND |Crab Essence| AND |Hot Tub| AND |Octopus Essence| AND |Karaoke Machine| AND |Stone Essence| AND |Organic Essence|",
+	"place_item": ["200 Points"]
+  },
+  {
+	"name": "Dolly Task 1",
+	"region": "Town Level 3",
+	"category": ["Dolly Dearheart"],
+	"requires": "|Dolly Dearheart| AND |Pickaxe| AND |Costume Chest| AND |Sunflower Essence|"
+  },
+  {
+	"name": "Dolly Task 1 Complete",
+	"region": "Town Level 3",
+	"category": ["Dolly Dearheart"],
+	"requires": "|Dolly Dearheart| AND |Pickaxe| AND |Costume Chest| AND |Sunflower Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Dolly Task 2",
+	"region": "Town Level 3",
+	"category": ["Dolly Dearheart"],
+	"requires": "|Dolly Dearheart| AND |Pickaxe| AND |Costume Chest| AND |Sunflower Essence| AND |Mirror| AND |Purple Crayon Essence|"
+  },
+  {
+	"name": "Dolly Task 2 Complete",
+	"region": "Town Level 3",
+	"category": ["Dolly Dearheart"],
+	"requires": "|Dolly Dearheart| AND |Pickaxe| AND |Costume Chest| AND |Sunflower Essence| AND |Mirror| AND |Purple Crayon Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Dolly Task 3",
+	"region": "Town Level 3",
+	"category": ["Dolly Dearheart"],
+	"requires": "|Dolly Dearheart| AND |Crowbar| AND |Pickaxe| AND |Costume Chest| AND |Sunflower Essence| AND |Mirror| AND |Purple Crayon Essence| AND |Yellow Crayon Essence| AND |Red Crayon Essence|"
+  },
+  {
+	"name": "Dolly Task 3 Complete",
+	"region": "Town Level 3",
+	"category": ["Dolly Dearheart"],
+	"requires": "|Dolly Dearheart| AND |Crowbar| AND |Pickaxe| AND |Costume Chest| AND |Sunflower Essence| AND |Mirror| AND |Purple Crayon Essence| AND |Yellow Crayon Essence| AND |Red Crayon Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Dolly Task 4",
+	"region": "Town Level 3",
+	"category": ["Dolly Dearheart"],
+	"requires": "|Dolly Dearheart| AND |Crowbar| AND |Pickaxe| AND |Costume Chest| AND |Sunflower Essence| AND |Mirror| AND |Purple Crayon Essence| AND |Yellow Crayon Essence| AND |Red Crayon Essence| AND |Table| AND |Puppy Essence| AND |Chair| AND |Tim Doll Essence| AND |Tina Doll Essence|"
+  },
+  {
+	"name": "Dolly Task 4 Complete",
+	"region": "Town Level 3",
+	"category": ["Dolly Dearheart"],
+	"requires": "|Dolly Dearheart| AND |Crowbar| AND |Pickaxe| AND |Costume Chest| AND |Sunflower Essence| AND |Mirror| AND |Purple Crayon Essence| AND |Yellow Crayon Essence| AND |Red Crayon Essence| AND |Table| AND |Puppy Essence| AND |Chair| AND |Tim Doll Essence| AND |Tina Doll Essence|",
+	"place_item": ["200 Points"]
+  },
+  {
+	"name": "Goth Boy Task 1",
+	"region": "Town Level 3",
+	"category": ["Goth Boy"],
+	"requires": "|Goth Boy| AND |Couch| AND |Sad Essence| AND |Chair|"
+  },
+  {
+	"name": "Goth Boy Task 1 Complete",
+	"region": "Town Level 3",
+	"category": ["Goth Boy"],
+	"requires": "|Goth Boy| AND |Couch| AND |Sad Essence| AND |Chair|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Goth Boy Task 2",
+	"region": "Town Level 3",
+	"category": ["Goth Boy"],
+	"requires": "|Goth Boy| AND |Saw| AND |Pickaxe| AND |Couch| AND |Sad Essence| AND |Chair| AND |Thorn Essence| AND |Spider Essence|"
+  },
+  {
+	"name": "Goth Boy Task 2 Complete",
+	"region": "Town Level 3",
+	"category": ["Goth Boy"],
+	"requires": "|Goth Boy| AND |Saw| AND |Pickaxe| AND |Couch| AND |Sad Essence| AND |Chair| AND |Thorn Essence| AND |Spider Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Goth Boy Task 3",
+	"region": "Town Level 3",
+	"category": ["Goth Boy"],
+	"requires": "|Goth Boy| AND |Saw| AND |Pickaxe| AND |Couch| AND |Sad Essence| AND |Chair| AND |Thorn Essence| AND |Spider Essence| AND |Bathtub| AND |Black Rose Essence|"
+  },
+  {
+	"name": "Goth Boy Task 3 Complete",
+	"region": "Town Level 3",
+	"category": ["Goth Boy"],
+	"requires": "|Goth Boy| AND |Saw| AND |Pickaxe| AND |Couch| AND |Sad Essence| AND |Chair| AND |Thorn Essence| AND |Spider Essence| AND |Bathtub| AND |Black Rose Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Goth Boy Task 4",
+	"region": "Town Level 3",
+	"category": ["Goth Boy"],
+	"requires": "|Goth Boy| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Couch| AND |Sad Essence| AND |Chair| AND |Thorn Essence| AND |Spider Essence| AND |Bathtub| AND |Black Rose Essence| AND |Organ| AND |Jack-o'-lantern Essence|"
+  },
+  {
+	"name": "Goth Boy Task 4 Complete",
+	"region": "Town Level 3",
+	"category": ["Goth Boy"],
+	"requires": "|Goth Boy| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Couch| AND |Sad Essence| AND |Chair| AND |Thorn Essence| AND |Spider Essence| AND |Bathtub| AND |Black Rose Essence| AND |Organ| AND |Jack-o'-lantern Essence|",
+	"place_item": ["200 Points"]
+  },
+  {
+	"name": "Master Aran Task 1",
+	"region": "Town Level 3",
+	"category": ["Master Aran"],
+	"requires": "|Master Aran| AND |Pickaxe| AND |Training Dummy| AND |Tiger Essence| AND |Elephant Essence|"
+  },
+  {
+	"name": "Master Aran Task 1 Complete",
+	"region": "Town Level 3",
+	"category": ["Master Aran"],
+	"requires": "|Master Aran| AND |Pickaxe| AND |Training Dummy| AND |Tiger Essence| AND |Elephant Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Master Aran Task 2",
+	"region": "Town Level 3",
+	"category": ["Master Aran"],
+	"requires": "|Master Aran| AND |Saw| AND |Pickaxe| AND |Training Dummy| AND |Tiger Essence| AND |Elephant Essence| AND |Angry Essence| AND |Spider Essence|"
+  },
+  {
+	"name": "Master Aran Task 2 Complete",
+	"region": "Town Level 3",
+	"category": ["Master Aran"],
+	"requires": "|Master Aran| AND |Saw| AND |Pickaxe| AND |Training Dummy| AND |Tiger Essence| AND |Elephant Essence| AND |Angry Essence| AND |Spider Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Master Aran Task 3",
+	"region": "Town Level 3",
+	"category": ["Master Aran"],
+	"requires": "|Master Aran| AND |Saw| AND |Pickaxe| AND |Training Dummy| AND |Tiger Essence| AND |Elephant Essence| AND |Angry Essence| AND |Spider Essence| AND |Octopus Essence| AND |Crab Essence|"
+  },
+  {
+	"name": "Master Aran Task 3 Complete",
+	"region": "Town Level 3",
+	"category": ["Master Aran"],
+	"requires": "|Master Aran| AND |Saw| AND |Pickaxe| AND |Training Dummy| AND |Tiger Essence| AND |Elephant Essence| AND |Angry Essence| AND |Spider Essence| AND |Octopus Essence| AND |Crab Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Master Aran Task 4",
+	"region": "Town Level 4",
+	"category": ["Master Aran"],
+	"requires": "|Master Aran| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Training Dummy| AND |Tiger Essence| AND |Elephant Essence| AND |Angry Essence| AND |Spider Essence| AND |Octopus Essence| AND |Crab Essence| AND |Mega Lizard Essence| AND |Tiny Shark Essence|"
+  },
+  {
+	"name": "Master Aran Task 4 Complete",
+	"region": "Town Level 4",
+	"category": ["Master Aran"],
+	"requires": "|Master Aran| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Training Dummy| AND |Tiger Essence| AND |Elephant Essence| AND |Angry Essence| AND |Spider Essence| AND |Octopus Essence| AND |Crab Essence| AND |Mega Lizard Essence| AND |Tiny Shark Essence|",
+	"place_item": ["200 Points"]
+  },
+  {
+	"name": "Shirley Task 1",
+	"region": "Town Level 3",
+	"category": ["Shirley"],
+	"requires": "|Shirley| AND |Crowbar| AND |Pickaxe| AND |Salon Chair| AND |Red Crayon Essence|"
+  },
+  {
+	"name": "Shirley Task 1 Complete",
+	"region": "Town Level 3",
+	"category": ["Shirley"],
+	"requires": "|Shirley| AND |Crowbar| AND |Pickaxe| AND |Salon Chair| AND |Red Crayon Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Shirley Task 2",
+	"region": "Town Level 3",
+	"category": ["Shirley"],
+	"requires": "|Shirley| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Salon Chair| AND |Red Crayon Essence| AND |Rose Essence|"
+  },
+  {
+	"name": "Shirley Task 2 Complete",
+	"region": "Town Level 3",
+	"category": ["Shirley"],
+	"requires": "|Shirley| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Salon Chair| AND |Red Crayon Essence| AND |Rose Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Shirley Task 3",
+	"region": "Town Level 3",
+	"category": ["Shirley"],
+	"requires": "|Shirley| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Salon Chair| AND |Red Crayon Essence| AND |Rose Essence| AND |Stove| AND |Lime Essence| AND |Refrigerator| AND |Orange Essence| AND |Counter| AND |Lemon Essence|"
+  },
+  {
+	"name": "Shirley Task 3 Complete",
+	"region": "Town Level 3",
+	"category": ["Shirley"],
+	"requires": "|Shirley| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Salon Chair| AND |Red Crayon Essence| AND |Rose Essence| AND |Stove| AND |Lime Essence| AND |Refrigerator| AND |Orange Essence| AND |Counter| AND |Lemon Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Shirley Task 4",
+	"region": "Town Level 4",
+	"category": ["Shirley"],
+	"requires": "|Shirley| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Salon Chair| AND |Red Crayon Essence| AND |Rose Essence| AND |Stove| AND |Lime Essence| AND |Refrigerator| AND |Orange Essence| AND |Counter| AND |Lemon Essence| AND |Gold Essence| AND |Kissing Fish Essence|"
+  },
+  {
+	"name": "Shirley Task 4 Complete",
+	"region": "Town Level 4",
+	"category": ["Shirley"],
+	"requires": "|Shirley| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Salon Chair| AND |Red Crayon Essence| AND |Rose Essence| AND |Stove| AND |Lime Essence| AND |Refrigerator| AND |Orange Essence| AND |Counter| AND |Lemon Essence| AND |Gold Essence| AND |Kissing Fish Essence|",
+	"place_item": ["200 Points"]
+  },
+  {
+	"name": "Natalia Task 1",
+	"region": "Town Level 3",
+	"category": ["Natalia Roshmanov"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Natalia Roshmanov| AND |Saw| AND |Pickaxe| AND |Desk - Spy| AND |Terra Cotta Essence| AND |Moai Essence| AND |Chair - Spy|"
+  },
+  {
+	"name": "Natalia Task 1 Complete",
+	"region": "Town Level 3",
+	"category": ["Natalia Roshmanov"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Natalia Roshmanov| AND |Saw| AND |Pickaxe| AND |Desk - Spy| AND |Terra Cotta Essence| AND |Moai Essence| AND |Chair - Spy|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Natalia Task 2",
+	"region": "Town Level 3",
+	"category": ["Natalia Roshmanov"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Natalia Roshmanov| AND |Saw| AND |Pickaxe| AND |Desk - Spy| AND |Terra Cotta Essence| AND |Moai Essence| AND |Chair - Spy| AND |Sculpture - Generator| AND |Elephant Essence| AND |Mega Lizard Essence|"
+  },
+  {
+	"name": "Natalia Task 2 Complete",
+	"region": "Town Level 3",
+	"category": ["Natalia Roshmanov"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Natalia Roshmanov| AND |Saw| AND |Pickaxe| AND |Desk - Spy| AND |Terra Cotta Essence| AND |Moai Essence| AND |Chair - Spy| AND |Sculpture - Generator| AND |Elephant Essence| AND |Mega Lizard Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Natalia Task 3",
+	"region": "Town Level 3",
+	"category": ["Natalia Roshmanov"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Natalia Roshmanov| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Desk - Spy| AND |Terra Cotta Essence| AND |Moai Essence| AND |Chair - Spy| AND |Sculpture - Generator| AND |Elephant Essence| AND |Mega Lizard Essence| AND |Super Computer| AND |Textbook Essence| AND |Video Game Essence|"
+  },
+  {
+	"name": "Natalia Task 3 Complete",
+	"region": "Town Level 3",
+	"category": ["Natalia Roshmanov"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Natalia Roshmanov| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Desk - Spy| AND |Terra Cotta Essence| AND |Moai Essence| AND |Chair - Spy| AND |Sculpture - Generator| AND |Elephant Essence| AND |Mega Lizard Essence| AND |Super Computer| AND |Textbook Essence| AND |Video Game Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Flipper Task 1",
+	"region": "Town Level 3",
+	"category": ["Flipper"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Tad Flipper McCaffrey| AND |Saw| AND |Pickaxe| AND |Sculpture - Locker| AND |Soccer Ball Essence| AND |Puppy Essence|"
+  },
+  {
+	"name": "Flipper Task 1 Complete",
+	"region": "Town Level 3",
+	"category": ["Flipper"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Tad Flipper McCaffrey| AND |Saw| AND |Pickaxe| AND |Sculpture - Locker| AND |Soccer Ball Essence| AND |Puppy Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Flipper Task 2",
+	"region": "Town Level 3",
+	"category": ["Flipper"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Tad Flipper McCaffrey| AND |Saw| AND |Pickaxe| AND |Sculpture - Locker| AND |Soccer Ball Essence| AND |Puppy Essence| AND |Sink| AND |Tiger Essence| AND |Sunflower Essence| AND |Bathtub|"
+  },
+  {
+	"name": "Flipper Task 2 Complete",
+	"region": "Town Level 3",
+	"category": ["Flipper"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Tad Flipper McCaffrey| AND |Saw| AND |Pickaxe| AND |Sculpture - Locker| AND |Soccer Ball Essence| AND |Puppy Essence| AND |Sink| AND |Tiger Essence| AND |Sunflower Essence| AND |Bathtub|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Flipper Task 3",
+	"region": "Town Level 3",
+	"category": ["Flipper"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Tad Flipper McCaffrey| AND |Saw| AND |Pickaxe| AND |Sculpture - Locker| AND |Soccer Ball Essence| AND |Puppy Essence| AND |Sink| AND |Tiger Essence| AND |Sunflower Essence| AND |Bathtub| AND |Pool| AND |Pinwheel Essence| AND |Club Essence|"
+  },
+  {
+	"name": "Flipper Task 3 Complete",
+	"region": "Town Level 3",
+	"category": ["Flipper"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Tad Flipper McCaffrey| AND |Saw| AND |Pickaxe| AND |Sculpture - Locker| AND |Soccer Ball Essence| AND |Puppy Essence| AND |Sink| AND |Tiger Essence| AND |Sunflower Essence| AND |Bathtub| AND |Pool| AND |Pinwheel Essence| AND |Club Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Wendalyn Task 1",
+	"region": "Town Level 3",
+	"category": ["Wendalyn"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Wendalyn| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Stove - Witch| AND |Ghost Essence| AND |Gingerbread Man Essence| AND |Refrigerator - Witch| AND |Eyeball Essence|"
+  },
+  {
+	"name": "Wendalyn Task 1 Complete",
+	"region": "Town Level 3",
+	"category": ["Wendalyn"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Wendalyn| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Stove - Witch| AND |Ghost Essence| AND |Gingerbread Man Essence| AND |Refrigerator - Witch| AND |Eyeball Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Wendalyn Task 2",
+	"region": "Town Level 3",
+	"category": ["Wendalyn"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Wendalyn| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Stove - Witch| AND |Ghost Essence| AND |Gingerbread Man Essence| AND |Refrigerator - Witch| AND |Eyeball Essence| AND |Shelf| AND |Jack-o'-lantern Essence| AND |Spider Essence| AND |Sarcophagus| AND |Bacon Essence|"
+  },
+  {
+	"name": "Wendalyn Task 2 Complete",
+	"region": "Town Level 3",
+	"category": ["Wendalyn"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Wendalyn| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Stove - Witch| AND |Ghost Essence| AND |Gingerbread Man Essence| AND |Refrigerator - Witch| AND |Eyeball Essence| AND |Shelf| AND |Jack-o'-lantern Essence| AND |Spider Essence| AND |Sarcophagus| AND |Bacon Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Wendalyn Task 3",
+	"region": "Town Level 3",
+	"category": ["Wendalyn"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Wendalyn| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Stove - Witch| AND |Ghost Essence| AND |Gingerbread Man Essence| AND |Refrigerator - Witch| AND |Eyeball Essence| AND |Shelf| AND |Jack-o'-lantern Essence| AND |Spider Essence| AND |Sarcophagus| AND |Bacon Essence| AND |Magic Cauldron| AND |Raven Essence| AND |Black Rose Essence|"
+  },
+  {
+	"name": "Wendalyn Task 3 Complete",
+	"region": "Town Level 3",
+	"category": ["Wendalyn"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Wendalyn| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Stove - Witch| AND |Ghost Essence| AND |Gingerbread Man Essence| AND |Refrigerator - Witch| AND |Eyeball Essence| AND |Shelf| AND |Jack-o'-lantern Essence| AND |Spider Essence| AND |Sarcophagus| AND |Bacon Essence| AND |Magic Cauldron| AND |Raven Essence| AND |Black Rose Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Dr. F Task 1",
+	"region": "Town Level 4",
+	"category": ["Dr. F"],
+	"requires": "|Dr. F| AND |Crowbar| AND |Pickaxe| AND |Blowtorch| AND |Stereo| AND |Spring Essence| AND |Stove| AND |Gears Essence|"
+  },
+  {
+	"name": "Dr. F Task 1 Complete",
+	"region": "Town Level 4",
+	"category": ["Dr. F"],
+	"requires": "|Dr. F| AND |Crowbar| AND |Pickaxe| AND |Blowtorch| AND |Stereo| AND |Spring Essence| AND |Stove| AND |Gears Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Dr. F Task 2",
+	"region": "Town Level 4",
+	"category": ["Dr. F"],
+	"requires": "|Dr. F| AND |Crowbar| AND |Pickaxe| AND |Blowtorch| AND |Stereo| AND |Spring Essence| AND |Stove| AND |Gears Essence| AND |Turntable| AND |Robot Essence| AND |Refrigerator| AND |Tire Essence|"
+  },
+  {
+	"name": "Dr. F Task 2 Complete",
+	"region": "Town Level 4",
+	"category": ["Dr. F"],
+	"requires": "|Dr. F| AND |Crowbar| AND |Pickaxe| AND |Blowtorch| AND |Stereo| AND |Spring Essence| AND |Stove| AND |Gears Essence| AND |Turntable| AND |Robot Essence| AND |Refrigerator| AND |Tire Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Dr. F Task 3",
+	"region": "Town Level 4",
+	"category": ["Dr. F"],
+	"requires": "|Dr. F| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Stereo| AND |Spring Essence| AND |Stove| AND |Gears Essence| AND |Turntable| AND |Robot Essence| AND |Refrigerator| AND |Tire Essence| AND |Karaoke Machine| AND |Soccer Ball Essence| AND |Toilet| AND |Tiny Shark Essence|"
+  },
+  {
+	"name": "Dr. F Task 3 Complete",
+	"region": "Town Level 4",
+	"category": ["Dr. F"],
+	"requires": "|Dr. F| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Stereo| AND |Spring Essence| AND |Stove| AND |Gears Essence| AND |Turntable| AND |Robot Essence| AND |Refrigerator| AND |Tire Essence| AND |Karaoke Machine| AND |Soccer Ball Essence| AND |Toilet| AND |Tiny Shark Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Dr. F Task 4",
+	"region": "Town Level 4",
+	"category": ["Dr. F"],
+	"requires": "|Dr. F| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Stereo| AND |Spring Essence| AND |Stove| AND |Gears Essence| AND |Turntable| AND |Robot Essence| AND |Refrigerator| AND |Tire Essence| AND |Karaoke Machine| AND |Soccer Ball Essence| AND |Toilet| AND |Tiny Shark Essence| AND |Tesla Coil|"
+  },
+  {
+	"name": "Dr. F Task 4 Complete",
+	"region": "Town Level 4",
+	"category": ["Dr. F"],
+	"requires": "|Dr. F| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Stereo| AND |Spring Essence| AND |Stove| AND |Gears Essence| AND |Turntable| AND |Robot Essence| AND |Refrigerator| AND |Tire Essence| AND |Karaoke Machine| AND |Soccer Ball Essence| AND |Toilet| AND |Tiny Shark Essence| AND |Tesla Coil|",
+	"place_item": ["200 Points"]
+  },
+  {
+	"name": "Cap'n Ginny Task 1",
+	"region": "Town Level 4",
+	"category": ["Cap'n Ginny"],
+	"requires": "|Cap'n Ginny| AND |Saw| AND |Pickaxe| AND |Jukebox| AND |Angry Essence| AND |Musical Note Essence|"
+  },
+  {
+	"name": "Cap'n Ginny Task 1 Complete",
+	"region": "Town Level 4",
+	"category": ["Cap'n Ginny"],
+	"requires": "|Cap'n Ginny| AND |Saw| AND |Pickaxe| AND |Jukebox| AND |Angry Essence| AND |Musical Note Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Cap'n Ginny Task 2",
+	"region": "Town Level 4",
+	"category": ["Cap'n Ginny"],
+	"requires": "|Cap'n Ginny| AND |Saw| AND |Pickaxe| AND |Jukebox| AND |Angry Essence| AND |Musical Note Essence| AND |Dresser| AND |Heart Essence| AND |Spade Essence| AND |Costume Chest| AND |Diamond Essence| AND |Club Essence|"
+  },
+  {
+	"name": "Cap'n Ginny Task 2 Complete",
+	"region": "Town Level 4",
+	"category": ["Cap'n Ginny"],
+	"requires": "|Cap'n Ginny| AND |Saw| AND |Pickaxe| AND |Jukebox| AND |Angry Essence| AND |Musical Note Essence| AND |Dresser| AND |Heart Essence| AND |Spade Essence| AND |Costume Chest| AND |Diamond Essence| AND |Club Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Cap'n Ginny Task 3",
+	"region": "Town Level 4",
+	"category": ["Cap'n Ginny"],
+	"requires": "|Cap'n Ginny| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Jukebox| AND |Angry Essence| AND |Musical Note Essence| AND |Dresser| AND |Heart Essence| AND |Spade Essence| AND |Costume Chest| AND |Diamond Essence| AND |Club Essence| AND |Hot Tub| AND |Beach Ball Essence|"
+  },
+  {
+	"name": "Cap'n Ginny Task 3 Complete",
+	"region": "Town Level 4",
+	"category": ["Cap'n Ginny"],
+	"requires": "|Cap'n Ginny| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Jukebox| AND |Angry Essence| AND |Musical Note Essence| AND |Dresser| AND |Heart Essence| AND |Spade Essence| AND |Costume Chest| AND |Diamond Essence| AND |Club Essence| AND |Hot Tub| AND |Beach Ball Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Cap'n Ginny Task 4",
+	"region": "Town Level 4",
+	"category": ["Cap'n Ginny"],
+	"requires": "|Cap'n Ginny| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Jukebox| AND |Angry Essence| AND |Musical Note Essence| AND |Dresser| AND |Heart Essence| AND |Spade Essence| AND |Costume Chest| AND |Diamond Essence| AND |Club Essence| AND |Hot Tub| AND |Beach Ball Essence| AND |Pirate Ship| AND |Magic Carpet Essence|"
+  },
+  {
+	"name": "Cap'n Ginny Task 4 Complete",
+	"region": "Town Level 4",
+	"category": ["Cap'n Ginny"],
+	"requires": "|Cap'n Ginny| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Jukebox| AND |Angry Essence| AND |Musical Note Essence| AND |Dresser| AND |Heart Essence| AND |Spade Essence| AND |Costume Chest| AND |Diamond Essence| AND |Club Essence| AND |Hot Tub| AND |Beach Ball Essence| AND |Pirate Ship| AND |Magic Carpet Essence|",
+	"place_item": ["200 Points"]
+  },
+  {
+	"name": "Madame Zoe Task 1",
+	"region": "Town Level 4",
+	"category": ["Madame Zoe"],
+	"requires": "|Madame Zoe| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Chair| AND |Snake Essence| AND |Table| AND |Voodoo Doll Essence| AND |Eyeball Essence|"
+  },
+  {
+	"name": "Madame Zoe Task 1 Complete",
+	"region": "Town Level 4",
+	"category": ["Madame Zoe"],
+	"requires": "|Madame Zoe| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Chair| AND |Snake Essence| AND |Table| AND |Voodoo Doll Essence| AND |Eyeball Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Madame Zoe Task 2",
+	"region": "Town Level 4",
+	"category": ["Madame Zoe"],
+	"requires": "|Madame Zoe| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Chair| AND |Snake Essence| AND |Table| AND |Voodoo Doll Essence| AND |Eyeball Essence| AND |Mirror| AND |Fish Bones Essence| AND |Skeleton Essence|"
+  },
+  {
+	"name": "Madame Zoe Task 2 Complete",
+	"region": "Town Level 4",
+	"category": ["Madame Zoe"],
+	"requires": "|Madame Zoe| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Chair| AND |Snake Essence| AND |Table| AND |Voodoo Doll Essence| AND |Eyeball Essence| AND |Mirror| AND |Fish Bones Essence| AND |Skeleton Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Madame Zoe Task 3",
+	"region": "Town Level 4",
+	"category": ["Madame Zoe"],
+	"requires": "|Madame Zoe| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Chair| AND |Snake Essence| AND |Table| AND |Voodoo Doll Essence| AND |Eyeball Essence| AND |Mirror| AND |Fish Bones Essence| AND |Skeleton Essence| AND |Sarcophagus| AND |Ghost Essence| AND |Black Apple Essence|"
+  },
+  {
+	"name": "Madame Zoe Task 3 Complete",
+	"region": "Town Level 4",
+	"category": ["Madame Zoe"],
+	"requires": "|Madame Zoe| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Chair| AND |Snake Essence| AND |Table| AND |Voodoo Doll Essence| AND |Eyeball Essence| AND |Mirror| AND |Fish Bones Essence| AND |Skeleton Essence| AND |Sarcophagus| AND |Ghost Essence| AND |Black Apple Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Madame Zoe Task 4",
+	"region": "Town Level 4",
+	"category": ["Madame Zoe"],
+	"requires": "|Madame Zoe| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Chair| AND |Snake Essence| AND |Table| AND |Voodoo Doll Essence| AND |Eyeball Essence| AND |Mirror| AND |Fish Bones Essence| AND |Skeleton Essence| AND |Sarcophagus| AND |Ghost Essence| AND |Black Apple Essence| AND |Fortune Crystal|"
+  },
+  {
+	"name": "Madame Zoe Task 4 Complete",
+	"region": "Town Level 4",
+	"category": ["Madame Zoe"],
+	"requires": "|Madame Zoe| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Chair| AND |Snake Essence| AND |Table| AND |Voodoo Doll Essence| AND |Eyeball Essence| AND |Mirror| AND |Fish Bones Essence| AND |Skeleton Essence| AND |Sarcophagus| AND |Ghost Essence| AND |Black Apple Essence| AND |Fortune Crystal|",
+	"place_item": ["200 Points"]
+  },
+  {
+	"name": "Professor Nova Task 1",
+	"region": "Town Level 4",
+	"category": ["Professor Nova"],
+	"requires": "|Professor Nova| AND (|Crowbar| OR {YamlEnabled(pc_switch_exclusives)}) AND |Pickaxe| AND |Blowtorch| AND |Telescope| AND |Star Essence| AND |Metal Essence|"
+  },
+  {
+	"name": "Professor Nova Task 1 Complete",
+	"region": "Town Level 4",
+	"category": ["Professor Nova"],
+	"requires": "|Professor Nova| AND (|Crowbar| OR {YamlEnabled(pc_switch_exclusives)}) AND |Pickaxe| AND |Blowtorch| AND |Telescope| AND |Star Essence| AND |Metal Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Professor Nova Task 2",
+	"region": "Town Level 4",
+	"category": ["Professor Nova"],
+	"requires": "|Professor Nova| AND (|Crowbar| OR {YamlEnabled(pc_switch_exclusives)}) AND |Pickaxe| AND |Blowtorch| AND |Telescope| AND |Star Essence| AND |Metal Essence| AND |Bookshelf| AND |Pencil Essence| AND |Light Wood Essence|"
+  },
+  {
+	"name": "Professor Nova Task 2 Complete",
+	"region": "Town Level 4",
+	"category": ["Professor Nova"],
+	"requires": "|Professor Nova| AND (|Crowbar| OR {YamlEnabled(pc_switch_exclusives)}) AND |Pickaxe| AND |Blowtorch| AND |Telescope| AND |Star Essence| AND |Metal Essence| AND |Bookshelf| AND |Pencil Essence| AND |Light Wood Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Professor Nova Task 3",
+	"region": "Town Level 4",
+	"category": ["Professor Nova"],
+	"requires": "|Professor Nova| AND (|Crowbar| OR {YamlEnabled(pc_switch_exclusives)}) AND |Pickaxe| AND |Blowtorch| AND |Telescope| AND |Star Essence| AND |Metal Essence| AND |Bookshelf| AND |Pencil Essence| AND |Light Wood Essence| AND |Couch| AND |Small Television| AND |Alien Essence|"
+  },
+  {
+	"name": "Professor Nova Task 3 Complete",
+	"region": "Town Level 4",
+	"category": ["Professor Nova"],
+	"requires": "|Professor Nova| AND (|Crowbar| OR {YamlEnabled(pc_switch_exclusives)}) AND |Pickaxe| AND |Blowtorch| AND |Telescope| AND |Star Essence| AND |Metal Essence| AND |Bookshelf| AND |Pencil Essence| AND |Light Wood Essence| AND |Couch| AND |Small Television| AND |Alien Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Professor Nova Task 4",
+	"region": "Town Level 4",
+	"category": ["Professor Nova"],
+	"requires": "|Professor Nova| AND (|Crowbar| OR {YamlEnabled(pc_switch_exclusives)}) AND |Pickaxe| AND |Blowtorch| AND |Telescope| AND |Star Essence| AND |Metal Essence| AND |Bookshelf| AND |Pencil Essence| AND |Light Wood Essence| AND |Couch| AND |Small Television| AND |Alien Essence| AND |Arcade Game| AND |Rocket Essence|"
+  },
+  {
+	"name": "Professor Nova Task 4 Complete",
+	"region": "Town Level 4",
+	"category": ["Professor Nova"],
+	"requires": "|Professor Nova| AND (|Crowbar| OR {YamlEnabled(pc_switch_exclusives)}) AND |Pickaxe| AND |Blowtorch| AND |Telescope| AND |Star Essence| AND |Metal Essence| AND |Bookshelf| AND |Pencil Essence| AND |Light Wood Essence| AND |Couch| AND |Small Television| AND |Alien Essence| AND |Arcade Game| AND |Rocket Essence|",
+	"place_item": ["200 Points"]
+  },
+  {
+	"name": "Trevor Task 1",
+	"region": "Town Level 4",
+	"category": ["Trevor Verily"],
+	"requires": "|Trevor Verily| AND |Saw| AND |Blowtorch| AND |Changing Booth| AND |Pawn Essence| AND |Knight Essence| AND |Costume Chest| AND |Rook Essence|"
+  },
+  {
+	"name": "Trevor Task 1 Complete",
+	"region": "Town Level 4",
+	"category": ["Trevor Verily"],
+	"requires": "|Trevor Verily| AND |Saw| AND |Blowtorch| AND |Changing Booth| AND |Pawn Essence| AND |Knight Essence| AND |Costume Chest| AND |Rook Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Trevor Task 2",
+	"region": "Town Level 4",
+	"category": ["Trevor Verily"],
+	"requires": "|Trevor Verily| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Changing Booth| AND |Pawn Essence| AND |Knight Essence| AND |Costume Chest| AND |Rook Essence| AND |Salon Chair| AND |Hopi Doll Essence| AND |Moai Essence|"
+  },
+  {
+	"name": "Trevor Task 2 Complete",
+	"region": "Town Level 4",
+	"category": ["Trevor Verily"],
+	"requires": "|Trevor Verily| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Changing Booth| AND |Pawn Essence| AND |Knight Essence| AND |Costume Chest| AND |Rook Essence| AND |Salon Chair| AND |Hopi Doll Essence| AND |Moai Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Trevor Task 3",
+	"region": "Town Level 4",
+	"category": ["Trevor Verily"],
+	"requires": "|Trevor Verily| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Changing Booth| AND |Pawn Essence| AND |Knight Essence| AND |Costume Chest| AND |Rook Essence| AND |Salon Chair| AND |Hopi Doll Essence| AND |Moai Essence| AND |Counter|"
+  },
+  {
+	"name": "Trevor Task 3 Complete",
+	"region": "Town Level 4",
+	"category": ["Trevor Verily"],
+	"requires": "|Trevor Verily| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Changing Booth| AND |Pawn Essence| AND |Knight Essence| AND |Costume Chest| AND |Rook Essence| AND |Salon Chair| AND |Hopi Doll Essence| AND |Moai Essence| AND |Counter|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Trevor Task 4",
+	"region": "Town Level 4",
+	"category": ["Trevor Verily"],
+	"requires": "|Trevor Verily| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Changing Booth| AND |Pawn Essence| AND |Knight Essence| AND |Costume Chest| AND |Rook Essence| AND |Salon Chair| AND |Hopi Doll Essence| AND |Moai Essence| AND |Counter| AND |Stage| AND |Globe Essence| AND |Dinosaur Fossil Essence|"
+  },
+  {
+	"name": "Trevor Task 4 Complete",
+	"region": "Town Level 4",
+	"category": ["Trevor Verily"],
+	"requires": "|Trevor Verily| AND |Saw| AND |Pickaxe| AND |Blowtorch| AND |Changing Booth| AND |Pawn Essence| AND |Knight Essence| AND |Costume Chest| AND |Rook Essence| AND |Salon Chair| AND |Hopi Doll Essence| AND |Moai Essence| AND |Counter| AND |Stage| AND |Globe Essence| AND |Dinosaur Fossil Essence|",
+	"place_item": ["200 Points"]
+  },
+  {
+	"name": "Alexa Task 1",
+	"region": "Town Level 4",
+	"category": ["Alexa Lexington"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Alexa Lexington| AND |Pickaxe| AND |Blowtorch| AND |Desk - Workbench| AND |Gold Essence| AND |Metal Essence| AND |Chair - Workbench|"
+  },
+  {
+	"name": "Alexa Task 1 Complete",
+	"region": "Town Level 4",
+	"category": ["Alexa Lexington"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Alexa Lexington| AND |Pickaxe| AND |Blowtorch| AND |Desk - Workbench| AND |Gold Essence| AND |Metal Essence| AND |Chair - Workbench|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Alexa Task 2",
+	"region": "Town Level 4",
+	"category": ["Alexa Lexington"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Alexa Lexington| AND |Crowbar| AND |Pickaxe| AND |Blowtorch| AND |Desk - Workbench| AND |Gold Essence| AND |Metal Essence| AND |Chair - Workbench| AND |Arcade Game| AND |Star Essence| AND |Spring Essence|"
+  },
+  {
+	"name": "Alexa Task 2 Complete",
+	"region": "Town Level 4",
+	"category": ["Alexa Lexington"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Alexa Lexington| AND |Crowbar| AND |Pickaxe| AND |Blowtorch| AND |Desk - Workbench| AND |Gold Essence| AND |Metal Essence| AND |Chair - Workbench| AND |Arcade Game| AND |Star Essence| AND |Spring Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Alexa Task 3",
+	"region": "Town Level 4",
+	"category": ["Alexa Lexington"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Alexa Lexington| AND |Crowbar| AND |Pickaxe| AND |Blowtorch| AND |Desk - Workbench| AND |Gold Essence| AND |Metal Essence| AND |Chair - Workbench| AND |Arcade Game| AND |Star Essence| AND |Spring Essence| AND |Robot Table| AND |Cube Puzzle Essence| AND |Robot Essence|"
+  },
+  {
+	"name": "Alexa Task 3 Complete",
+	"region": "Town Level 4",
+	"category": ["Alexa Lexington"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Alexa Lexington| AND |Crowbar| AND |Pickaxe| AND |Blowtorch| AND |Desk - Workbench| AND |Gold Essence| AND |Metal Essence| AND |Chair - Workbench| AND |Arcade Game| AND |Star Essence| AND |Spring Essence| AND |Robot Table| AND |Cube Puzzle Essence| AND |Robot Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Cedella Task 1",
+	"region": "Town Level 4",
+	"category": ["Cedella"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Cedella| AND |Pickaxe| AND |Pizza Oven - Cafe| AND |Lemon Essence| AND |Lime Essence|"
+  },
+  {
+	"name": "Cedella Task 1 Complete",
+	"region": "Town Level 4",
+	"category": ["Cedella"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Cedella| AND |Pickaxe| AND |Pizza Oven - Cafe| AND |Lemon Essence| AND |Lime Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Cedella Task 2",
+	"region": "Town Level 4",
+	"category": ["Cedella"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Cedella| AND |Pickaxe| AND |Blowtorch| AND |Pizza Oven - Cafe| AND |Lemon Essence| AND |Lime Essence| AND |Bookshelf| AND |Globe Essence| AND |Pencil Essence| AND |Green Apple Essence|"
+  },
+  {
+	"name": "Cedella Task 2 Complete",
+	"region": "Town Level 4",
+	"category": ["Cedella"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Cedella| AND |Pickaxe| AND |Blowtorch| AND |Pizza Oven - Cafe| AND |Lemon Essence| AND |Lime Essence| AND |Bookshelf| AND |Globe Essence| AND |Pencil Essence| AND |Green Apple Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Cedella Task 3",
+	"region": "Town Level 4",
+	"category": ["Cedella"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Cedella| AND |Pickaxe| AND |Blowtorch| AND |Pizza Oven - Cafe| AND |Lemon Essence| AND |Lime Essence| AND |Bookshelf| AND |Globe Essence| AND |Pencil Essence| AND |Green Apple Essence| AND |Drink Dispenser| AND |Banana Essence|"
+  },
+  {
+	"name": "Cedella Task 3 Complete",
+	"region": "Town Level 4",
+	"category": ["Cedella"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Cedella| AND |Pickaxe| AND |Blowtorch| AND |Pizza Oven - Cafe| AND |Lemon Essence| AND |Lime Essence| AND |Bookshelf| AND |Globe Essence| AND |Pencil Essence| AND |Green Apple Essence| AND |Drink Dispenser| AND |Banana Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Terry Task 1",
+	"region": "Town Level 4",
+	"category": ["Terry Toymender"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Terry Toymender| AND |Crowbar| AND |Pickaxe| AND |Sculpture| AND |Tim Doll Essence| AND |Tina Doll Essence| AND |Sculpture - Wall|"
+  },
+  {
+	"name": "Terry Task 1 Complete",
+	"region": "Town Level 4",
+	"category": ["Terry Toymender"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Terry Toymender| AND |Crowbar| AND |Pickaxe| AND |Sculpture| AND |Tim Doll Essence| AND |Tina Doll Essence| AND |Sculpture - Wall|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Terry Task 2",
+	"region": "Town Level 4",
+	"category": ["Terry Toymender"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Terry Toymender| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Sculpture| AND |Tim Doll Essence| AND |Tina Doll Essence| AND |Sculpture - Wall| AND |Stereo| AND |Musical Note Essence| AND |Yellow Crayon Essence| AND |Arcade Game| AND |Red Crayon Essence|"
+  },
+  {
+	"name": "Terry Task 2 Complete",
+	"region": "Town Level 4",
+	"category": ["Terry Toymender"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Terry Toymender| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Sculpture| AND |Tim Doll Essence| AND |Tina Doll Essence| AND |Sculpture - Wall| AND |Stereo| AND |Musical Note Essence| AND |Yellow Crayon Essence| AND |Arcade Game| AND |Red Crayon Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Terry Task 3",
+	"region": "Town Level 4",
+	"category": ["Terry Toymender"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Terry Toymender| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Sculpture| AND |Tim Doll Essence| AND |Tina Doll Essence| AND |Sculpture - Wall| AND |Stereo| AND |Musical Note Essence| AND |Yellow Crayon Essence| AND |Arcade Game| AND |Red Crayon Essence| AND |Amusement Ride| AND |Kitten Essence| AND |Magic Carpet Essence|"
+  },
+  {
+	"name": "Terry Task 3 Complete",
+	"region": "Town Level 4",
+	"category": ["Terry Toymender"],
+	"pc_exclusive": ["Yes"],
+	"requires": "|Terry Toymender| AND |Crowbar| AND |Saw| AND |Pickaxe| AND |Sculpture| AND |Tim Doll Essence| AND |Tina Doll Essence| AND |Sculpture - Wall| AND |Stereo| AND |Musical Note Essence| AND |Yellow Crayon Essence| AND |Arcade Game| AND |Red Crayon Essence| AND |Amusement Ride| AND |Kitten Essence| AND |Magic Carpet Essence|",
+	"place_item": ["100 Points"]
+  },
+  {
+	"name": "Rosalyn Best Friend Reward",
+	"region": "Town Level 0",
+	"category": ["Level 0 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Rosalyn P. Marshall|"
+  },
+  {
+	"name": "Poppy Best Friend Reward",
+	"region": "Town Level 0",
+	"category": ["Level 0 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Poppy|"
+  },
+  {
+	"name": "Buddy Best Friend Reward",
+	"region": "Town Level 0",
+	"category": ["Level 0 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Buddy|"
+  },
+  {
+	"name": "Cassandra Best Friend Reward",
+	"region": "Town Level 0",
+	"category": ["Level 0 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Cassandra|"
+  },
+  {
+	"name": "Patrick Best Friend Reward",
+	"region": "Town Level 0",
+	"category": ["Level 0 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Patrick Rhino|"
+  },
+  {
+	"name": "Violet Best Friend Reward",
+	"region": "Town Level 0",
+	"category": ["Level 0 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Violet Nightshade|"
+  },
+  {
+	"name": "Chef Gino Best Friend Reward",
+	"region": "Town Level 1",
+	"category": ["Level 1 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Chef Gino Delicioso|"
+  },
+  {
+	"name": "DJ Candy Best Friend Reward",
+	"region": "Town Level 1",
+	"category": ["Level 1 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|DJ Candy Supergroove|"
+  },
+  {
+	"name": "Sir Vincent Best Friend Reward",
+	"region": "Town Level 1",
+	"category": ["Level 1 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Sir Vincent Skullfinder|"
+  },
+  {
+	"name": "Elmira Best Friend Reward",
+	"region": "Town Level 2",
+	"category": ["Level 2 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Elmira Clamp|"
+  },
+  {
+	"name": "Ms. Nicole Best Friend Reward",
+	"region": "Town Level 2",
+	"category": ["Level 2 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Ms. Nicole Vogue|"
+  },
+  {
+	"name": "Roxie Road Best Friend Reward",
+	"region": "Town Level 2",
+	"category": ["Level 2 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Roxie Road|"
+  },
+  {
+	"name": "Vic Vector Best Friend Reward",
+	"region": "Town Level 2",
+	"category": ["Level 2 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Vic Vector|"
+  },
+  {
+	"name": "Clara Best Friend Reward",
+	"region": "Town Level 2",
+	"category": ["Level 2 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Clara Belle|"
+  },
+  {
+	"name": "Gordon Best Friend Reward",
+	"region": "Town Level 2",
+	"category": ["Level 2 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Gordon|"
+  },
+  {
+	"name": "Maria Best Friend Reward",
+	"region": "Town Level 2",
+	"category": ["Level 2 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Maria|"
+  },
+  {
+	"name": "Ray Best Friend Reward",
+	"region": "Town Level 2",
+	"category": ["Level 2 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Ray|"
+  },
+  {
+	"name": "Rhonda Best Friend Reward",
+	"region": "Town Level 2",
+	"category": ["Level 2 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Rhonda|"
+  },
+  {
+	"name": "Roger Best Friend Reward",
+	"region": "Town Level 2",
+	"category": ["Level 2 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Roger|"
+  },
+  {
+	"name": "Travis Best Friend Reward",
+	"region": "Town Level 2",
+	"category": ["Level 2 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Travis|"
+  },
+  {
+	"name": "Chef Watanabe Best Friend Reward",
+	"region": "Town Level 3",
+	"category": ["Level 3 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Chef Hisao Watanabe|"
+  },
+  {
+	"name": "Dolly Best Friend Reward",
+	"region": "Town Level 3",
+	"category": ["Level 3 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Dolly Dearheart|"
+  },
+  {
+	"name": "Goth Boy Best Friend Reward",
+	"region": "Town Level 3",
+	"category": ["Level 3 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Goth Boy|"
+  },
+  {
+	"name": "Master Aran Best Friend Reward",
+	"region": "Town Level 3",
+	"category": ["Level 3 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Master Aran|"
+  },
+  {
+	"name": "Shirley Best Friend Reward",
+	"region": "Town Level 3",
+	"category": ["Level 3 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Shirley|"
+  },
+  {
+	"name": "Natalia Best Friend Reward",
+	"region": "Town Level 3",
+	"category": ["Level 3 Sim BF Reward"],
+	"pc_exclusive": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Natalia Roshmanov|"
+  },
+  {
+	"name": "Flipper Best Friend Reward",
+	"region": "Town Level 3",
+	"category": ["Level 3 Sim BF Reward"],
+	"pc_exclusive": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Tad Flipper McCaffrey|"
+  },
+  {
+	"name": "Wendalyn Best Friend Reward",
+	"region": "Town Level 3",
+	"category": ["Level 3 Sim BF Reward"],
+	"pc_exclusive": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Wendalyn|"
+  },
+  {
+	"name": "Bean Best Friend Reward",
+	"region": "Town Level 3",
+	"category": ["Level 3 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Bean Bradley|"
+  },
+  {
+	"name": "Jenny Best Friend Reward",
+	"region": "Town Level 3",
+	"category": ["Level 3 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Jenny|"
+  },
+  {
+	"name": "Matt Best Friend Reward",
+	"region": "Town Level 3",
+	"category": ["Level 3 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Matt|"
+  },
+  {
+	"name": "Raven Best Friend Reward",
+	"region": "Town Level 3",
+	"category": ["Level 3 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Raven Wright|"
+  },
+  {
+	"name": "Sandra Best Friend Reward",
+	"region": "Town Level 3",
+	"category": ["Level 3 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Sandra|"
+  },
+  {
+	"name": "Stephen Best Friend Reward",
+	"region": "Town Level 3",
+	"category": ["Level 3 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Stephen Albright|"
+  },
+  {
+	"name": "Dr. F Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Dr. F|"
+  },
+  {
+	"name": "Cap'n Ginny Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Cap'n Ginny|"
+  },
+  {
+	"name": "Madame Zoe Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Madame Zoe|"
+  },
+  {
+	"name": "Professor Nova Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Professor Nova|"
+  },
+  {
+	"name": "Trevor Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Trevor Verily|"
+  },
+  {
+	"name": "Alexa Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"pc_exclusive": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Alexa Lexington|"
+  },
+  {
+	"name": "Cedella Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"pc_exclusive": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Cedella|"
+  },
+  {
+	"name": "Terry Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"pc_exclusive": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Terry Toymender|"
+  },
+  {
+	"name": "Amelia Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Amelia|"
+  },
+  {
+	"name": "Annie Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Annie Radd|"
+  },
+  {
+	"name": "Crystal Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Crystal|"
+  },
+  {
+	"name": "Edwin Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Edwin|"
+  },
+  {
+	"name": "Gertrude Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Gertrude Spackle|"
+  },
+  {
+	"name": "Ruthie Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Grandma Ruthie|"
+  },
+  {
+	"name": "Ian Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Ian Arneson|"
+  },
+  {
+	"name": "Jeremy Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Jeremy Snoars|"
+  },
+  {
+	"name": "Liberty Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Liberty|"
+  },
+  {
+	"name": "Linda Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Linda|"
+  },
+  {
+	"name": "Makoto Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Makoto|"
+  },
+  {
+	"name": "Odin Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Odin Revolution|"
+  },
+  {
+	"name": "Pinky Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Pinky|"
+  },
+  {
+	"name": "Sasha Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Sasha|"
+  },
+  {
+	"name": "Yuki Best Friend Reward",
+	"region": "Town Level 4",
+	"category": ["Level 4 Sim BF Reward"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Yuki|"
+  },
+  {
+	"name": "Abigail Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Abigail|"
+  },
+  {
+	"name": "Beebee Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Beebee|"
+  },
+  {
+	"name": "Billy Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Billy|"
+  },
+  {
+	"name": "Blaine Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Blaine|"
+  },
+  {
+	"name": "Brandi Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Brandi|"
+  },
+  {
+	"name": "Brendan Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Brendan|"
+  },
+  {
+	"name": "Chaz Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Chaz McFreely|"
+  },
+  {
+	"name": "Clayton Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Clayton Dander|"
+  },
+  {
+	"name": "Eliza Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Eliza|"
+  },
+  {
+	"name": "Esma Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Esma|"
+  },
+  {
+	"name": "Iggy Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Iggy|"
+  },
+  {
+	"name": "Jimmy Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Jimmy Watanabe|"
+  },
+  {
+	"name": "Karine Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Karine|"
+  },
+  {
+	"name": "Luis Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Luis|"
+  },
+  {
+	"name": "Morcubus Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Morcubus|"
+  },
+  {
+	"name": "Noelle Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Noelle|"
+  },
+  {
+	"name": "Pablo Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Pablo|"
+  },
+  {
+	"name": "Penelope Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Penelope|"
+  },
+  {
+	"name": "Renée Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Renée|"
+  },
+  {
+	"name": "Rob Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Rob Jarrett|"
+  },
+  {
+	"name": "Spencer Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Spencer|"
+  },
+  {
+	"name": "Summer Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Summer|"
+  },
+  {
+	"name": "Taylor Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Taylor|"
+  },
+  {
+	"name": "Yvette Best Friend Reward",
+	"region": "Town Level 5",
+	"category": ["Level 5 Sim BF Reward"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Yvette|"
+  },
+  {
+	"name": "Ikara Best Friend Reward",
+	"region": "Town Level 0",
+	"category": ["Uber Sim BF Reward"],
+	"uber_sim": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Chancellor Ikara|"
+  },
+  {
+	"name": "Daryl Best Friend Reward",
+	"region": "Town Level 0",
+	"category": ["Uber Sim BF Reward"],
+	"uber_sim": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Daryl Handsly|"
+  },
+  {
+	"name": "Hopper Best Friend Reward",
+	"region": "Town Level 0",
+	"category": ["Uber Sim BF Reward"],
+	"uber_sim": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Hopper|"
+  },
+  {
+	"name": "Mel Best Friend Reward",
+	"region": "Town Level 0",
+	"category": ["Uber Sim BF Reward"],
+	"uber_sim": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Mel|"
+  },
+  {
+	"name": "Samurai Bob Best Friend Reward",
+	"region": "Town Level 0",
+	"category": ["Uber Sim BF Reward"],
+	"uber_sim": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Samurai Bob|"
+  },
+  {
+	"name": "Star Best Friend Reward",
+	"region": "Town Level 0",
+	"category": ["Uber Sim BF Reward"],
+	"uber_sim": ["Yes"],
+	"bf_rewards": ["Yes"],
+	"requires": "|Star|"
+  },
+  {
+	"name": "Star Level 1",
+	"region": "Town Level 0",
+	"category": ["Star Levels"],
+	"requires": "{ItemValue(points:300)}",
+	"place_item": ["Star Level"]
+  },
+  {
+	"name": "Star Level 2",
+	"region": "Town Level 1",
+	"category": ["Star Levels"],
+	"requires": "{ItemValue(points:1100)}",
+	"place_item": ["Star Level"]
+  },
+  {
+	"name": "Star Level 3",
+	"region": "Town Level 2",
+	"category": ["Star Levels"],
+	"requires": "{ItemValue(points:2300)}",
+	"place_item": ["Star Level"]
+  },
+  {
+	"name": "Star Level 4",
+	"region": "Town Level 3",
+	"category": ["Star Levels"],
+	"requires": "{ItemValue(points:4000)}",
+	"place_item": ["Star Level"]
+  },
+  {
+	"name": "Star Level 5",
+	"region": "Town Level 4",
+	"category": ["Star Levels"],
+	"requires": "{ItemValue(points:6500)}",
+	"place_item": ["Star Level"]
+  },
+  {
+	"name": "Star Level 3 Goal",
+	"region": "Town Level 2",
+	"category": ["Goal"],
+	"victory": true,
+	"requires": "{ItemValue(points:2300)}"
+  },
+  {
+	"name": "Star Level 4 Goal",
+	"region": "Town Level 3",
+	"category": ["Goal"],
+	"victory": true,
+	"requires": "{ItemValue(points:4000)}"
+  },
+  {
+	"name": "Star Level 5 Goal",
+	"region": "Town Level 4",
+	"category": ["Goal"],
+	"victory": true,
+	"requires": "{ItemValue(points:6500)}"
+  }
+]

@@ -1,0 +1,2371 @@
+[
+  {
+    "count":  1,
+    "name": "Garnet Essence",
+    "category": ["Essence", "Cute Essence"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Gold Essence",
+    "category": ["Essence", "Cute Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Happy Essence",
+    "category": ["Essence", "Cute Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Kissing Fish Essence",
+    "category": ["Essence", "Cute Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Plum Blossom Essence",
+    "category": ["Essence", "Cute Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Puppy Essence",
+    "category": ["Essence", "Cute Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Purple Crayon Essence",
+    "category": ["Essence", "Cute Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Red Crayon Essence",
+    "category": ["Essence", "Cute Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Rose Essence",
+    "category": ["Essence", "Cute Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Sunflower Essence",
+    "category": ["Essence", "Cute Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Tim Doll Essence",
+    "category": ["Essence", "Cute Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Tina Doll Essence",
+    "category": ["Essence", "Cute Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Yellow Blossom Essence",
+    "category": ["Essence", "Cute Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Yellow Crayon Essence",
+    "category": ["Essence", "Cute Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Freezer Bunny Essence",
+    "category": ["Essence", "Cute Essence"],
+	"gardens_essence": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Kitten Essence",
+    "category": ["Essence", "Cute Essence"],
+	"gardens_essence": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Penguin Essence",
+    "category": ["Essence", "Cute Essence"],
+	"gardens_essence": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Puppet Essence",
+    "category": ["Essence", "Cute Essence"],
+	"gardens_essence": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "8-Ball Essence",
+    "category": ["Essence", "Fun Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Angry Essence",
+    "category": ["Essence", "Fun Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Beach Ball Essence",
+    "category": ["Essence", "Fun Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Clown Fish Essence",
+    "category": ["Essence", "Fun Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Club Essence",
+    "category": ["Essence", "Fun Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Diamond Essence",
+    "category": ["Essence", "Fun Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Heart Essence",
+    "category": ["Essence", "Fun Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Hopi Doll Essence",
+    "category": ["Essence", "Fun Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Magic Carpet Essence",
+    "category": ["Essence", "Fun Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Musical Note Essence",
+    "category": ["Essence", "Fun Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Soccer Ball Essence",
+    "category": ["Essence", "Fun Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Spade Essence",
+    "category": ["Essence", "Fun Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Tiger Essence",
+    "category": ["Essence", "Fun Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Topaz Essence",
+    "category": ["Essence", "Fun Essence"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Beta Fish Essence",
+    "category": ["Essence", "Fun Essence"],
+	"gardens_essence": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Goby Essence",
+    "category": ["Essence", "Fun Essence"],
+	"gardens_essence": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Pinwheel Essence",
+    "category": ["Essence", "Fun Essence"],
+	"gardens_essence": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Rubber Ducky Essence",
+    "category": ["Essence", "Fun Essence"],
+	"gardens_essence": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Action Figure Essence",
+    "category": ["Essence", "Geeky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Alien Essence",
+    "category": ["Essence", "Geeky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Gears Essence",
+    "category": ["Essence", "Geeky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Mega Lizard Essence",
+    "category": ["Essence", "Geeky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Metal Essence",
+    "category": ["Essence", "Geeky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Robot Essence",
+    "category": ["Essence", "Geeky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Rocket Essence",
+    "category": ["Essence", "Geeky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Sapphire Essence",
+    "category": ["Essence", "Geeky Essence"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Snake Essence",
+    "category": ["Essence", "Geeky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Spring Essence",
+    "category": ["Essence", "Geeky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Star Essence",
+    "category": ["Essence", "Geeky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Tiny Shark Essence",
+    "category": ["Essence", "Geeky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Tire Essence",
+    "category": ["Essence", "Geeky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Video Game Essence",
+    "category": ["Essence", "Geeky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Cube Puzzle Essence",
+    "category": ["Essence", "Geeky Essence"],
+	"gardens_essence": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Electric Eel Essence",
+    "category": ["Essence", "Geeky Essence"],
+	"gardens_essence": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Robofish Essence",
+    "category": ["Essence", "Geeky Essence"],
+	"gardens_essence": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Uber Shiny Essence",
+    "category": ["Essence", "Geeky Essence"],
+	"gardens_essence": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "UFO Essence",
+    "category": ["Essence", "Geeky Essence"],
+	"gardens_essence": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Amethyst Essence",
+    "category": ["Essence", "Spooky Essence"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Black Apple Essence",
+    "category": ["Essence", "Spooky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Black Rose Essence",
+    "category": ["Essence", "Spooky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Dead Wood Essence",
+    "category": ["Essence", "Spooky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Eyeball Essence",
+    "category": ["Essence", "Spooky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Fish Bones Essence",
+    "category": ["Essence", "Spooky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Ghost Essence",
+    "category": ["Essence", "Spooky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Jack-o'-lantern Essence",
+    "category": ["Essence", "Spooky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Sad Essence",
+    "category": ["Essence", "Spooky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Scary Essence",
+    "category": ["Essence", "Spooky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Skeleton Essence",
+    "category": ["Essence", "Spooky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Spider Essence",
+    "category": ["Essence", "Spooky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Thorn Essence",
+    "category": ["Essence", "Spooky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Voodoo Doll Essence",
+    "category": ["Essence", "Spooky Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Bat Essence",
+    "category": ["Essence", "Spooky Essence"],
+	"gardens_essence": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bat Fish Essence",
+    "category": ["Essence", "Spooky Essence"],
+	"gardens_essence": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Dragon Essence",
+    "category": ["Essence", "Spooky Essence"],
+	"gardens_essence": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Raven Essence",
+    "category": ["Essence", "Spooky Essence"],
+	"gardens_essence": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Dark Wood Essence",
+    "category": ["Essence", "Studious Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Dinosaur Fossil Essence",
+    "category": ["Essence", "Studious Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Elephant Essence",
+    "category": ["Essence", "Studious Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Globe Essence",
+    "category": ["Essence", "Studious Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Jade Essence",
+    "category": ["Essence", "Studious Essence"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Knight Essence",
+    "category": ["Essence", "Studious Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Light Wood Essence",
+    "category": ["Essence", "Studious Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Moai Essence",
+    "category": ["Essence", "Studious Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Organic Essence",
+    "category": ["Essence", "Studious Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Pawn Essence",
+    "category": ["Essence", "Studious Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Pencil Essence",
+    "category": ["Essence", "Studious Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Rook Essence",
+    "category": ["Essence", "Studious Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Stone Essence",
+    "category": ["Essence", "Studious Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Terra Cotta Essence",
+    "category": ["Essence", "Studious Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Compass Essence",
+    "category": ["Essence", "Studious Essence"],
+	"gardens_essence": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Microscope Essence",
+    "category": ["Essence", "Studious Essence"],
+	"gardens_essence": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Telescope Essence",
+    "category": ["Essence", "Studious Essence"],
+	"gardens_essence": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Textbook Essence",
+    "category": ["Essence", "Studious Essence"],
+	"gardens_essence": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Amber Essence",
+    "category": ["Essence", "Tasty Essence"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bacon Essence",
+    "category": ["Essence", "Tasty Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Cake Essence",
+    "category": ["Essence", "Tasty Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Cherry Blossom Essence",
+    "category": ["Essence", "Tasty Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Chocolate Cake Essence",
+    "category": ["Essence", "Tasty Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Crab Essence",
+    "category": ["Essence", "Tasty Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Gingerbread Man Essence",
+    "category": ["Essence", "Tasty Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Green Apple Essence",
+    "category": ["Essence", "Tasty Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Lemon Essence",
+    "category": ["Essence", "Tasty Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Lime Essence",
+    "category": ["Essence", "Tasty Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Octopus Essence",
+    "category": ["Essence", "Tasty Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Orange Essence",
+    "category": ["Essence", "Tasty Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Rainbow Trout Essence",
+    "category": ["Essence", "Tasty Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Red Apple Essence",
+    "category": ["Essence", "Tasty Essence"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Banana Essence",
+    "category": ["Essence", "Tasty Essence"],
+	"gardens_essence": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Fruit Pie Essence",
+    "category": ["Essence", "Tasty Essence"],
+	"gardens_essence": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Salmon Essence",
+    "category": ["Essence", "Tasty Essence"],
+	"gardens_essence": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Tuna Essence",
+    "category": ["Essence", "Tasty Essence"],
+	"gardens_essence": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Rosalyn P. Marshall",
+    "category": ["Sim", "Commercial Sim"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Buddy",
+    "category": ["Sim", "Commercial Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Poppy",
+    "category": ["Sim", "Commercial Sim"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Chef Gino Delicioso",
+    "category": ["Sim", "Commercial Sim"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "DJ Candy Supergroove",
+    "category": ["Sim", "Commercial Sim"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Sir Vincent Skullfinder",
+    "category": ["Sim", "Commercial Sim"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Elmira Clamp",
+    "category": ["Sim", "Commercial Sim"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Ms. Nicole Vogue",
+    "category": ["Sim", "Commercial Sim"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Roxie Road",
+    "category": ["Sim", "Commercial Sim"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Vic Vector",
+    "category": ["Sim", "Commercial Sim"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Master Aran",
+    "category": ["Sim", "Commercial Sim"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Goth Boy",
+    "category": ["Sim", "Commercial Sim"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Dolly Dearheart",
+    "category": ["Sim", "Commercial Sim"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Shirley",
+    "category": ["Sim", "Commercial Sim"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Chef Hisao Watanabe",
+    "category": ["Sim", "Commercial Sim"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Natalia Roshmanov",
+    "category": ["Sim", "Commercial Sim"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Tad Flipper McCaffrey",
+    "category": ["Sim", "Commercial Sim"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Wendalyn",
+    "category": ["Sim", "Commercial Sim"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Dr. F",
+    "category": ["Sim", "Commercial Sim"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Trevor Verily",
+    "category": ["Sim", "Commercial Sim"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Professor Nova",
+    "category": ["Sim", "Commercial Sim"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Madame Zoe",
+    "category": ["Sim", "Commercial Sim"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Cap'n Ginny",
+    "category": ["Sim", "Commercial Sim"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Alexa Lexington",
+    "category": ["Sim", "Commercial Sim"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Cedella",
+    "category": ["Sim", "Commercial Sim"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Terry Toymender",
+    "category": ["Sim", "Commercial Sim"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Cassandra",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Patrick Rhino",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Violet Nightshade",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Clara Belle",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Gordon",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Maria",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Ray",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Rhonda",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Roger",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Travis",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Bean Bradley",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Jenny",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Matt",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Raven Wright",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Sandra",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Stephen Albright",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Amelia",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Annie Radd",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Crystal",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Edwin",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Gertrude Spackle",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Grandma Ruthie",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Ian Arneson",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Jeremy Snoars",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Liberty",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Linda",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Makoto",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Odin Revolution",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Pinky",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Sasha",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Yuki",
+    "category": ["Sim", "Townie Sim"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Abigail",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Beebee",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Billy",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Blaine",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Brandi",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Brendan",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Chaz McFreely",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Clayton Dander",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Eliza",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Esma",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Iggy",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Jimmy Watanabe",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Karine",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Luis",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Morcubus",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Noelle",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Pablo",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Penelope",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Renée",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Rob Jarrett",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Spencer",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Summer",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Taylor",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Yvette",
+    "category": ["Sim", "Townie Sim"],
+	"level_5": ["Yes"],
+	"bf_rewards": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Chancellor Ikara",
+    "category": ["Sim", "Uber Sim"],
+	"bf_rewards": ["Yes"],
+	"uber_sim": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Daryl Handsly",
+    "category": ["Sim", "Uber Sim"],
+	"bf_rewards": ["Yes"],
+	"uber_sim": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Hopper",
+    "category": ["Sim", "Uber Sim"],
+	"bf_rewards": ["Yes"],
+	"uber_sim": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Mel",
+    "category": ["Sim", "Uber Sim"],
+	"bf_rewards": ["Yes"],
+	"uber_sim": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Samurai Bob",
+    "category": ["Sim", "Uber Sim"],
+	"bf_rewards": ["Yes"],
+	"uber_sim": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Star",
+    "category": ["Sim", "Uber Sim"],
+	"bf_rewards": ["Yes"],
+	"uber_sim": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Amusement Ride",
+    "category": ["Blueprint", "Blueprint (Task)"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Arcade Game",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Arcade Game - Antennae",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Arcade Game - Antique",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+	"pc_exclusive": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Arcade Game - Retro",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Arcade Game - Robot",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+	"pc_exclusive": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Arcade Game - Spiked",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bathtub",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Bathtub - Bamboo",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bathtub - Hourglass",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bathtub - Naval",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bathtub - Palatial",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bathtub - Sammich",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bathtub - Spider",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bathtub - Whale",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+	"pc_exclusive": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bed",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Bed - Book",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bed - Burger",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bed - Canopy",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bed - Classic",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bed - Cradle",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bed - Designer",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bed - Froggy",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bed - Jenny's",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bed - Nails",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bed - Princess",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bed - Rainclouds",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bed - Tree",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bookshelf",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Bookshelf - Art Deco",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bookshelf - Cafe",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+	"pc_exclusive": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bookshelf - Hearts",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bookshelf - Magnetic",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bookshelf - Notched",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Bookshelf - Ornate",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Chair",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Chair - Bunny",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Chair - Futuristic",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Chair - Modern",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Chair - Monster Head",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Chair - Monster Paw",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Chair - Monster Paw 2",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Chair - Ornate",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Chair - Racecar",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Chair - Recharger",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Chair - Rickshaw",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Chair - Rocker",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Chair - Science",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Chair - Spy",
+    "category": ["Blueprint", "Blueprint (Task)"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Chair - Workbench",
+    "category": ["Blueprint", "Blueprint (Task)"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Changing Booth",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Changing Booth - Aquarium",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Changing Booth - Cobra",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Coffee Table",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Coffee Table - Mouse",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Costume Chest",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Costume Chest - Capsule",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Couch",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Couch - Checkers",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Couch - Club",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Couch - Froggy",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Couch - Funky",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Couch - Medusa",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Couch - Puzzle",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Couch - Soccer",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Counter",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Counter - Island",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Desk",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Desk - Bridge",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Desk - Galactic",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Desk - Puzzle",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Desk - Spy",
+    "category": ["Blueprint", "Blueprint (Task)"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Desk - Torii",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Desk - Workbench",
+    "category": ["Blueprint", "Blueprint (Task)"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Dresser",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Dresser - Classic",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Dresser - Colonial",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Drink Dispenser",
+    "category": ["Blueprint", "Blueprint (Task)"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Flower Stand",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Flower Stand - Designer",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Flower Stand - Totem",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Flower Stand - Watanabe's",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Fortune Crystal",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Hot Tub",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Hot Tub - Naval",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Hot Tub - Raven",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Hot Tub - Robohead",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Ice Cream Freezer",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Ice Cream Freezer - Pagoda",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Ice Cream Freezer - Piggy",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Jukebox",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Karaoke Machine",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Karaoke Machine - Guitar",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Karaoke Machine - Lovely",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Karaoke Machine - Mime",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Magic Cauldron",
+    "category": ["Blueprint", "Blueprint (Task)"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Mirror",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Mirror - Elegant",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Mirror - Origami",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Organ",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Pirate Ship",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Pizza Oven",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Pizza Oven - Cafe",
+    "category": ["Blueprint", "Blueprint (Task)"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Pizza Oven - Pizza",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Podium",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Pool",
+    "category": ["Blueprint", "Blueprint (Task)"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Refrigerator",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Refrigerator - Deluxe",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Refrigerator - Framed",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Refrigerator - Rounded",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Refrigerator - Witch",
+    "category": ["Blueprint", "Blueprint (Task)"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Robot Table",
+    "category": ["Blueprint", "Blueprint (Task)"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Salon Chair",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Salon Chair - Bubbles",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Sarcophagus",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Sarcophagus - Mel's",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Sarcophagus - Witch",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+	"pc_exclusive": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Sculpture",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Sculpture - Fireplace",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Sculpture - Generator",
+    "category": ["Blueprint", "Blueprint (Task)"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Sculpture - Locker",
+    "category": ["Blueprint", "Blueprint (Task)"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Sculpture - Wall",
+    "category": ["Blueprint", "Blueprint (Task)"],
+	"pc_task": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Town Monument",
+    "category": ["Blueprint"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Shelf",
+    "category": ["Blueprint", "Blueprint (Task)"],
+	"pc_task": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Sink",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Sink - Art Deco",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Sink - Flipper",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+	"pc_exclusive": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Sink - Floral",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Sink - Vanity",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Small Television",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Small Television - Soda",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Small Television - Framed",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Small Television - Question",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Television - Club",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Stage",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Stereo",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Stereo - Antique",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+	"pc_exclusive": ["Yes"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Stereo - Drum Set",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Stereo - Funky",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Stereo - Trevor's",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Stove",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Stove - Apple",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Stove - Claw",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Stove - Deluxe",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Stove - Hourglass",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Stove - Witch",
+    "category": ["Blueprint", "Blueprint (Task)"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Super Computer",
+    "category": ["Blueprint", "Blueprint (Task)"],
+	"pc_exclusive": ["Yes"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Table",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Table - Atom",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Table - Bamboo",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Table - Castle",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Table - Designer",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Table - Lattice",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Telescope",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Television",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Television - Daikon",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Television - Giant Claw",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Television - Lightning Round",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Television - Spaceship",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Television - Wavy",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Tesla Coil",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Toilet",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Toilet - Insidious",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Training Dummy",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Training Dummy - Doll",
+    "category": ["Blueprint", "Blueprint (Reward)"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Turntable",
+    "category": ["Blueprint", "Blueprint (Task)"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Wall Cabinet",
+    "category": ["Blueprint"],
+    "filler": true
+  },
+  {
+    "count":  1,
+    "name": "Crowbar",
+    "category": ["Tools"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Saw",
+    "category": ["Tools"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Pickaxe",
+    "category": ["Tools"],
+    "progression": true
+  },
+  {
+    "count":  1,
+    "name": "Blowtorch",
+    "category": ["Tools"],
+    "progression": true
+  },
+  {
+    "count":  69,
+    "name": "100 Points",
+    "category": ["Star Level"],
+	"value": {"points": 100},
+    "progression": true
+  },
+  {
+    "count":  18,
+    "name": "200 Points",
+    "category": ["Star Level"],
+	"value": {"points": 200},
+    "progression": true
+  },
+  {
+    "count":  5,
+    "name": "Star Level",
+    "category": ["Star Level"],
+    "progression": true
+  }
+]

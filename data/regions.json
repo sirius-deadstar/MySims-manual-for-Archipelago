@@ -1,0 +1,27 @@
+{
+  "Town Level 0": {
+	"starting": true,
+	"connects_to": ["Town Level 1"],
+	"requires": []
+  },
+  "Town Level 1": {
+	"connects_to": ["Town Level 2"],
+	"requires": "|Star Level:1|"
+  },
+  "Town Level 2": {
+	"connects_to": ["Town Level 3"],
+	"requires": "|Star Level:2|"
+  },
+  "Town Level 3": {
+	"connects_to": ["Town Level 4"],
+	"requires": "|Star Level:3|"
+  },
+  "Town Level 4": {
+	"connects_to": ["Town Level 5"],
+	"requires": "|Star Level:4|"
+  },
+  "Town Level 5": {
+	"connects_to": [],
+	"requires": "|Star Level:5|"
+  }
+}
