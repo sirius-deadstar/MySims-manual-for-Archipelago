@@ -63,6 +63,13 @@ class LvlFiveToggle(Toggle):
     display_name = "Level 5 Sims"
     default = True
 
+class FastLvlOneToggle(Toggle):
+    """
+    Adds Sims, blueprints and Essences required to reach Star Level 1 to the starting inventory.
+    """
+    display_name = "Fast Level 1"
+    default = False
+
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
     
@@ -71,6 +78,7 @@ def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, T
     options["best_friend_rewards"] = BFRewardsToggle
     options["uber_sims"] = UberSimsToggle
     options["level_5_sims"] = LvlFiveToggle
+    options["fast_level_1"] = FastLvlOneToggle
     
     return options
 
@@ -85,7 +93,7 @@ def after_options_defined(options: Type[PerGameCommonOptions]):
     # options.type_hints['goal'].options.update({"example": 0, "second_alias": 1})  #for an alias to be valid it must also be in options
     
     options.type_hints["goal"].aliases.update({"star_level_3":0, "star_level_4":1, "star_level_5":2})
-    options.type_hints["goal"].aliases.update({"star_level_3":0, "star_level_4":1, "star_level_5":2})
+    options.type_hints["goal"].options.update({"star_level_3":0, "star_level_4":1, "star_level_5":2})
     options.type_hints["goal"].default = 2
 
     pass
