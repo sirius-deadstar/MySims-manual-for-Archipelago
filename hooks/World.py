@@ -93,6 +93,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     itemNamesToRemove: list[str] = [] # List of item names
     
     IncludePC = get_option_value(multiworld, player, "pc_switch_exclusives")
+    FastLvlOne = get_option_value(multiworld, player, "fast_level_1")
     
     if not IncludePC:
         itemNamesToRemove.extend(["100 Points"]*18)
@@ -111,7 +112,15 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     for itemName in itemNamesToRemove:
         item = next(i for i in item_pool if i.name == itemName)
         item_pool.remove(item)
-
+    
+    if FastLvlOne:
+        starting_items = ["Rosalyn P. Marshall", "Poppy", "Podium", "Flower Stand", "Bed", "Red Apple Essence", "Happy Essence", "Yellow Blossom Essence"]
+    
+        for itemName in starting_items:
+            item = next(i for i in item_pool if i.name == itemName)
+            multiworld.push_precollected(item)
+            item_pool.remove(item)
+    
     return item_pool
 
     # Some other useful hook options:
