@@ -2444,7 +2444,7 @@
   },
   {
 	"name": "Ikara Best Friend Reward",
-	"region": "Town Level 0",
+	"region": "Town Level 2",
 	"category": ["Uber Sim BF Reward"],
 	"uber_sim": ["Yes"],
 	"bf_rewards": ["Yes"],
@@ -2452,7 +2452,7 @@
   },
   {
 	"name": "Daryl Best Friend Reward",
-	"region": "Town Level 0",
+	"region": "Town Level 2",
 	"category": ["Uber Sim BF Reward"],
 	"uber_sim": ["Yes"],
 	"bf_rewards": ["Yes"],
@@ -2460,7 +2460,7 @@
   },
   {
 	"name": "Hopper Best Friend Reward",
-	"region": "Town Level 0",
+	"region": "Town Level 2",
 	"category": ["Uber Sim BF Reward"],
 	"uber_sim": ["Yes"],
 	"bf_rewards": ["Yes"],
@@ -2468,7 +2468,7 @@
   },
   {
 	"name": "Mel Best Friend Reward",
-	"region": "Town Level 0",
+	"region": "Town Level 2",
 	"category": ["Uber Sim BF Reward"],
 	"uber_sim": ["Yes"],
 	"bf_rewards": ["Yes"],
@@ -2476,7 +2476,7 @@
   },
   {
 	"name": "Samurai Bob Best Friend Reward",
-	"region": "Town Level 0",
+	"region": "Town Level 2",
 	"category": ["Uber Sim BF Reward"],
 	"uber_sim": ["Yes"],
 	"bf_rewards": ["Yes"],
@@ -2484,7 +2484,7 @@
   },
   {
 	"name": "Star Best Friend Reward",
-	"region": "Town Level 0",
+	"region": "Town Level 2",
 	"category": ["Uber Sim BF Reward"],
 	"uber_sim": ["Yes"],
 	"bf_rewards": ["Yes"],
@@ -2546,4 +2546,5 @@
 	"victory": true,
 	"requires": "{ItemValue(points:6500)}"
   }
+
 ]
